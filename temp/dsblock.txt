@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-02-27T13:30:34.569337
+#    updated: 2025-02-27T14:30:36.102866
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,7 +36,7 @@
 204.76.203.0	204.76.203.255	24	1209	INTELLIGENCE-ATOM-HOSTING	KN	None
 198.235.24.0	198.235.24.255	24	1174	GOOGLE-CLOUD-PLATFORM	US	None
 103.102.230.0	103.102.230.255	24	1172	SKOALI	FR	>>UNKNOWN<<
-45.142.193.0	45.142.193.255	24	1148	MAGHOST_	RO	office@magbross.ro
+45.142.193.0	45.142.193.255	24	1149	MAGHOST_	RO	office@magbross.ro
 205.210.31.0	205.210.31.255	24	1136	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	1125	GOOGLE-CLOUD-PLATFORM	US	None
 109.236.61.0	109.236.61.255	24	1000	-	-	-
