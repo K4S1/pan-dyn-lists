@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-22T08:00:26.502665
+#    updated: 2025-03-22T10:00:26.869597
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 204.76.203.0	204.76.203.255	24	666	INTELLIGENCE-ATOM-HOSTING	KN	None
 57.129.64.0	57.129.64.255	24	664	OVH	FR	abuse@ovh.net
 104.156.155.0	104.156.155.255	24	642	HAWAIIRESEARCH	US	None
+195.178.110.0	195.178.110.255	24	610	DATAFOREST	DE	abuse@timeweb.ru
 89.248.165.0	89.248.165.255	24	609	INT-NETWORK	SC	abuse@ipvolume.net
 185.91.127.0	185.91.127.255	24	609	FERDINANDZINK	DE	abuse@vodafone.net.tr
-195.178.110.0	195.178.110.255	24	608	DATAFOREST	DE	abuse@timeweb.ru
