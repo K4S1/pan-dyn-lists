@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-27T05:00:19.756239
+#    updated: 2025-03-27T06:15:20.690408
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,13 +26,13 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-206.168.34.0	206.168.34.255	24	965	-	-	-
+206.168.34.0	206.168.34.255	24	966	-	-	-
 194.180.48.0	194.180.48.255	24	944	-	-	-
+167.94.138.0	167.94.138.255	24	843	CENSYS-ARIN-01	US	None
 204.76.203.0	204.76.203.255	24	843	INTELLIGENCE-ATOM-HOSTING	KN	None
-167.94.138.0	167.94.138.255	24	842	CENSYS-ARIN-01	US	None
 195.178.110.0	195.178.110.255	24	763	DATAFOREST	DE	abuse@timeweb.ru
 198.235.24.0	198.235.24.255	24	763	GOOGLE-CLOUD-PLATFORM	US	None
-83.222.191.0	83.222.191.255	24	759	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.191.0	83.222.191.255	24	760	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 205.210.31.0	205.210.31.255	24	748	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	744	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	735	GOOGLE-CLOUD-PLATFORM	US	None
@@ -45,4 +45,4 @@
 185.91.127.0	185.91.127.255	24	603	FERDINANDZINK	DE	abuse@vodafone.net.tr
 103.102.230.0	103.102.230.255	24	602	SKOALI	FR	>>UNKNOWN<<
 167.94.145.0	167.94.145.255	24	579	CENSYS-ARIN-02	US	None
-195.184.76.0	195.184.76.255	24	577	EAJ-GLOBAL	GB	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	578	EAJ-GLOBAL	GB	>>UNKNOWN<<
