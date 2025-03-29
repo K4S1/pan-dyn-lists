@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-29T07:15:35.781771
+#    updated: 2025-03-29T08:15:36.240766
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 205.210.31.0	205.210.31.255	24	1032	GOOGLE-CLOUD-PLATFORM	US	None
 195.178.110.0	195.178.110.255	24	971	DATAFOREST	DE	abuse@timeweb.ru
 45.82.78.0	45.82.78.255	24	909	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-45.148.10.0	45.148.10.255	24	906	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.148.10.0	45.148.10.255	24	907	PPTECHNOLOGY	GB	abuse@vegatele.com
 103.102.230.0	103.102.230.255	24	847	SKOALI	FR	>>UNKNOWN<<
