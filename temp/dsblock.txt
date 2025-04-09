@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-09T13:15:30.039740
+#    updated: 2025-04-09T14:15:30.121937
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -41,7 +41,7 @@
 91.196.152.0	91.196.152.255	24	1049	ATT-INTERNET4	US	abuse@att.net
 103.102.230.0	103.102.230.255	24	1047	SKOALI	FR	>>UNKNOWN<<
 45.148.10.0	45.148.10.255	24	979	PPTECHNOLOGY	GB	abuse@vegatele.com
-64.62.197.0	64.62.197.255	24	931	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	932	HURRICANE	US	abuse@he.net
 104.234.115.0	104.234.115.255	24	919	DAILY	TR	abuse@orbittelekom.com
 167.94.146.0	167.94.146.255	24	918	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.255	24	899	CENSYS-ARIN-02	US	None
