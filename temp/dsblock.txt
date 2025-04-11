@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-11T03:45:25.955088
+#    updated: 2025-04-11T04:45:26.007577
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 206.168.34.0	206.168.34.255	24	1320	-	-	-
 167.94.138.0	167.94.138.255	24	1224	CENSYS-ARIN-01	US	None
 83.222.191.0	83.222.191.255	24	1158	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-57.129.64.0	57.129.64.255	24	1141	OVH	FR	abuse@ovh.net
+57.129.64.0	57.129.64.255	24	1142	OVH	FR	abuse@ovh.net
 205.210.31.0	205.210.31.255	24	1039	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	1002	GOOGLE-CLOUD-PLATFORM	US	None
-83.222.190.0	83.222.190.255	24	918	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.190.0	83.222.190.255	24	919	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+45.148.10.0	45.148.10.255	24	876	PPTECHNOLOGY	GB	abuse@vegatele.com
 170.39.218.0	170.39.218.255	24	876	BULLIONET	FR	abuse@lineacom.it
-45.148.10.0	45.148.10.255	24	875	PPTECHNOLOGY	GB	abuse@vegatele.com
 103.102.230.0	103.102.230.255	24	843	SKOALI	FR	>>UNKNOWN<<
 91.196.152.0	91.196.152.255	24	830	ATT-INTERNET4	US	abuse@att.net
 195.184.76.0	195.184.76.255	24	795	EAJ-GLOBAL	GB	>>UNKNOWN<<
