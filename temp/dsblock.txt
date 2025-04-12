@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-12T04:45:36.982611
+#    updated: 2025-04-12T05:45:38.450747
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-83.222.191.0	83.222.191.255	24	2411	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.191.0	83.222.191.255	24	2412	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 194.180.48.0	194.180.48.255	24	1626	-	-	-
 154.81.156.0	154.81.156.255	24	1619	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 162.216.150.0	162.216.150.255	24	1552	GOOGLE	US	network-abuse@google.com
@@ -36,10 +36,10 @@
 147.185.133.0	147.185.133.255	24	1476	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1474	GOOGLE	US	network-abuse@google.com
 57.129.64.0	57.129.64.255	24	1403	OVH	FR	abuse@ovh.net
-206.168.34.0	206.168.34.255	24	1401	-	-	-
+206.168.34.0	206.168.34.255	24	1403	-	-	-
 167.94.138.0	167.94.138.255	24	1330	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	1311	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	1299	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.255	24	1300	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1284	GOOGLE-CLOUD-PLATFORM	US	None
 103.102.230.0	103.102.230.255	24	1036	SKOALI	FR	>>UNKNOWN<<
 170.39.218.0	170.39.218.255	24	1001	BULLIONET	FR	abuse@lineacom.it
