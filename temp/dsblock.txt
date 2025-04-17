@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-17T09:15:39.031406
+#    updated: 2025-04-17T10:15:37.679093
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 5.188.206.0	5.188.206.255	24	808	KREZ999AS	BG	abuse@fastvps.biz
 64.62.197.0	64.62.197.255	24	799	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	779	HURRICANE	US	abuse@he.net
-45.148.10.0	45.148.10.255	24	769	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.148.10.0	45.148.10.255	24	770	PPTECHNOLOGY	GB	abuse@vegatele.com
