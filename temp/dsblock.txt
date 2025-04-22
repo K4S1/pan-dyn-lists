@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-22T11:30:37.083387
+#    updated: 2025-04-22T12:30:37.931875
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 194.180.48.0	194.180.48.255	24	1424	-	-	-
 57.129.64.0	57.129.64.255	24	1247	OVH	FR	abuse@ovh.net
 206.168.34.0	206.168.34.255	24	1246	-	-	-
-193.163.125.0	193.163.125.255	24	1236	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	1237	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	1191	CENSYS-ARIN-01	US	None
 154.81.156.0	154.81.156.255	24	1139	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	1134	GOOGLE-CLOUD-PLATFORM	US	None
