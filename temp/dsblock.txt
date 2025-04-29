@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-29T08:45:39.158186
+#    updated: 2025-04-29T09:45:40.548547
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,7 +36,7 @@
 194.180.48.0	194.180.48.255	24	1228	-	-	-
 205.210.31.0	205.210.31.255	24	1204	GOOGLE-CLOUD-PLATFORM	US	None
 104.234.115.0	104.234.115.255	24	1062	DAILY	TR	abuse@orbittelekom.com
-147.185.132.0	147.185.132.255	24	1032	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1033	GOOGLE-CLOUD-PLATFORM	US	None
 195.184.76.0	195.184.76.255	24	1024	EAJ-GLOBAL	GB	>>UNKNOWN<<
 185.91.127.0	185.91.127.255	24	983	FERDINANDZINK	DE	abuse@vodafone.net.tr
 185.218.84.0	185.218.84.255	24	953	-	-	-
