@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-01T07:15:31.536318
+#    updated: 2025-05-01T08:30:31.605369
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 83.222.191.0	83.222.191.255	24	2580	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-165.232.35.0	165.232.35.255	24	1617	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+165.232.35.0	165.232.35.255	24	1618	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
 206.189.119.0	206.189.119.255	24	1514	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
 206.168.34.0	206.168.34.255	24	1308	-	-	-
 154.81.156.0	154.81.156.255	24	1298	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
@@ -37,12 +37,12 @@
 213.209.143.0	213.209.143.255	24	1080	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 185.218.84.0	185.218.84.255	24	1060	-	-	-
 198.235.24.0	198.235.24.255	24	1004	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	992	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	993	GOOGLE-CLOUD-PLATFORM	US	None
 185.91.127.0	185.91.127.255	24	958	FERDINANDZINK	DE	abuse@vodafone.net.tr
 147.185.132.0	147.185.132.255	24	943	GOOGLE-CLOUD-PLATFORM	US	None
 194.180.48.0	194.180.48.255	24	938	-	-	-
 45.148.10.0	45.148.10.255	24	877	PPTECHNOLOGY	GB	abuse@vegatele.com
 195.184.76.0	195.184.76.255	24	820	EAJ-GLOBAL	GB	>>UNKNOWN<<
 170.39.218.0	170.39.218.255	24	790	BULLIONET	FR	abuse@lineacom.it
-167.94.145.0	167.94.145.255	24	782	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	783	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	768	HURRICANE	US	abuse@he.net
