@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-07T07:30:33.042859
+#    updated: 2025-05-07T08:30:32.260670
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,7 +40,7 @@
 185.91.127.0	185.91.127.255	24	916	FERDINANDZINK	DE	abuse@vodafone.net.tr
 176.65.148.0	176.65.148.255	24	904	-	-	-
 154.81.156.0	154.81.156.255	24	842	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
-45.10.16.0	45.10.16.255	24	837	TNGNET	NL	info@tngnet.com
+45.10.16.0	45.10.16.255	24	838	TNGNET	NL	info@tngnet.com
 170.39.218.0	170.39.218.255	24	835	BULLIONET	FR	abuse@lineacom.it
 45.148.10.0	45.148.10.255	24	827	PPTECHNOLOGY	GB	abuse@vegatele.com
 195.184.76.0	195.184.76.255	24	820	EAJ-GLOBAL	GB	>>UNKNOWN<<
