@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-08T04:00:30.459861
+#    updated: 2025-05-08T05:15:31.400801
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-83.222.191.0	83.222.191.255	24	2595	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.191.0	83.222.191.255	24	2596	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 208.87.242.0	208.87.242.255	24	1852	AS40676	US	noc@psychz.net
 104.255.152.0	104.255.152.255	24	1620	NETMINDERS	CA	dreckner@reckner.com
 208.87.243.0	208.87.243.255	24	1550	AS40676	US	noc@psychz.net
@@ -38,11 +38,11 @@
 198.235.24.0	198.235.24.255	24	1079	GOOGLE-CLOUD-PLATFORM	US	None
 154.81.156.0	154.81.156.255	24	1074	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	1066	GOOGLE-CLOUD-PLATFORM	US	None
-104.234.115.0	104.234.115.255	24	932	DAILY	TR	abuse@orbittelekom.com
+104.234.115.0	104.234.115.255	24	933	DAILY	TR	abuse@orbittelekom.com
 147.185.132.0	147.185.132.255	24	918	GOOGLE-CLOUD-PLATFORM	US	None
 91.196.152.0	91.196.152.255	24	906	ATT-INTERNET4	US	abuse@att.net
 185.91.127.0	185.91.127.255	24	862	FERDINANDZINK	DE	abuse@vodafone.net.tr
 45.148.10.0	45.148.10.255	24	819	PPTECHNOLOGY	GB	abuse@vegatele.com
-65.49.1.0	65.49.1.255	24	818	HURRICANE	US	abuse@he.net
+65.49.1.0	65.49.1.255	24	819	HURRICANE	US	abuse@he.net
 89.248.165.0	89.248.165.255	24	818	INT-NETWORK	SC	abuse@ipvolume.net
 185.218.84.0	185.218.84.255	24	811	-	-	-
