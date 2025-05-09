@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-09T11:15:27.774783
+#    updated: 2025-05-09T13:15:27.810561
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 198.235.24.0	198.235.24.255	24	788	GOOGLE-CLOUD-PLATFORM	US	None
 154.81.156.0	154.81.156.255	24	771	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 45.142.193.0	45.142.193.255	24	749	MAGHOST_	RO	office@magbross.ro
-91.196.152.0	91.196.152.255	24	683	ATT-INTERNET4	US	abuse@att.net
+91.196.152.0	91.196.152.255	24	684	ATT-INTERNET4	US	abuse@att.net
