@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-12T19:15:33.897788
+#    updated: 2025-05-12T20:30:33.716049
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -41,8 +41,8 @@
 198.235.24.0	198.235.24.255	24	830	GOOGLE-CLOUD-PLATFORM	US	None
 195.211.191.0	195.211.191.255	24	829	BURSABIL	TR	abuse@bursabil.com.tr
 83.222.190.0	83.222.190.255	24	809	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-154.81.156.0	154.81.156.255	24	807	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+154.81.156.0	154.81.156.255	24	808	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+205.210.31.0	205.210.31.255	24	791	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.133.0	147.185.133.255	24	790	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	790	GOOGLE-CLOUD-PLATFORM	US	None
-89.248.163.0	89.248.163.255	24	777	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.255	24	778	INT-NETWORK	SC	abuse@ipvolume.net
 35.203.211.0	35.203.211.255	24	773	GOOGLE-CLOUD-PLATFORM	US	None
