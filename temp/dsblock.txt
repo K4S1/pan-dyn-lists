@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-15T08:45:39.779807
+#    updated: 2025-05-15T09:45:40.255513
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 170.39.218.0	170.39.218.255	24	931	BULLIONET	FR	abuse@lineacom.it
 5.188.206.0	5.188.206.255	24	924	KREZ999AS	BG	abuse@fastvps.biz
 104.234.115.0	104.234.115.255	24	899	DAILY	TR	abuse@orbittelekom.com
-195.184.76.0	195.184.76.255	24	889	EAJ-GLOBAL	GB	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	890	EAJ-GLOBAL	GB	>>UNKNOWN<<
