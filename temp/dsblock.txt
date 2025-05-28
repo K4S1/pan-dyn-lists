@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-28T21:30:17.568543
+#    updated: 2025-05-28T22:45:20.104513
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,21 +27,21 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 79.124.62.0	79.124.62.255	24	401	DM_AUTO	BG	abuse@dm-auto.eu
-88.218.193.0	88.218.193.255	24	348	XNNET	US	sysadmin@tandbergdata.com
-104.234.115.0	104.234.115.255	24	343	DAILY	TR	abuse@orbittelekom.com
-206.168.34.0	206.168.34.255	24	343	-	-	-
-64.62.197.0	64.62.197.255	24	341	HURRICANE	US	abuse@he.net
+88.218.193.0	88.218.193.255	24	349	XNNET	US	sysadmin@tandbergdata.com
+206.168.34.0	206.168.34.255	24	344	-	-	-
+104.234.115.0	104.234.115.255	24	344	DAILY	TR	abuse@orbittelekom.com
 167.94.146.0	167.94.146.255	24	341	CENSYS-ARIN-02	US	None
+64.62.197.0	64.62.197.255	24	341	HURRICANE	US	abuse@he.net
 146.88.241.0	146.88.241.255	24	340	ARBOR	US	hostmaster@arbor.net
 176.65.149.0	176.65.149.255	24	340	-	-	-
 193.163.125.0	193.163.125.255	24	340	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	339	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.255	24	338	CENSYS-ARIN-02	US	None
 195.82.146.0	195.82.146.255	24	338	-	-	-
+167.94.145.0	167.94.145.255	24	338	CENSYS-ARIN-02	US	None
 167.94.138.0	167.94.138.255	24	337	CENSYS-ARIN-01	US	None
-213.209.143.0	213.209.143.255	24	336	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+176.65.148.0	176.65.148.255	24	337	-	-	-
 185.242.226.0	185.242.226.255	24	336	AS49870-BV	NL	abuse@westcall.ru
-176.65.148.0	176.65.148.255	24	336	-	-	-
+213.209.143.0	213.209.143.255	24	336	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 205.210.31.0	205.210.31.255	24	334	GOOGLE-CLOUD-PLATFORM	US	None
 91.196.152.0	91.196.152.255	24	334	ATT-INTERNET4	US	abuse@att.net
 20.65.193.0	20.65.193.255	24	333	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
