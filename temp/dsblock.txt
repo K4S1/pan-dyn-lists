@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-31T18:00:17.936545
+#    updated: 2025-05-31T19:00:19.016508
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 79.124.62.0	79.124.62.255	24	420	DM_AUTO	BG	abuse@dm-auto.eu
-104.234.115.0	104.234.115.255	24	363	DAILY	TR	abuse@orbittelekom.com
+104.234.115.0	104.234.115.255	24	364	DAILY	TR	abuse@orbittelekom.com
+146.88.241.0	146.88.241.255	24	347	ARBOR	US	hostmaster@arbor.net
 64.62.197.0	64.62.197.255	24	346	HURRICANE	US	abuse@he.net
-146.88.241.0	146.88.241.255	24	345	ARBOR	US	hostmaster@arbor.net
 185.242.226.0	185.242.226.255	24	345	AS49870-BV	NL	abuse@westcall.ru
-195.82.147.0	195.82.147.255	24	340	-	-	-
-206.168.34.0	206.168.34.255	24	338	-	-	-
+195.82.147.0	195.82.147.255	24	341	-	-	-
+206.168.34.0	206.168.34.255	24	339	-	-	-
+195.82.146.0	195.82.146.255	24	338	-	-	-
+193.163.125.0	193.163.125.255	24	337	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 213.209.143.0	213.209.143.255	24	337	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 176.65.148.0	176.65.148.255	24	337	-	-	-
-195.82.146.0	195.82.146.255	24	337	-	-	-
-193.163.125.0	193.163.125.255	24	336	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+65.49.1.0	65.49.1.255	24	336	HURRICANE	US	abuse@he.net
 109.205.213.0	109.205.213.255	24	333	IS-AS-1	US	abusencc@interserver.net
-65.49.1.0	65.49.1.255	24	333	HURRICANE	US	abuse@he.net
+88.218.193.0	88.218.193.255	24	333	XNNET	US	sysadmin@tandbergdata.com
+71.6.233.0	71.6.233.255	24	332	CARINET	US	complaints@cari.net
+64.62.156.0	64.62.156.255	24	331	HURRICANE	US	abuse@he.net
+198.235.24.0	198.235.24.255	24	331	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	331	CENSYS-ARIN-01	US	None
+20.65.194.0	20.65.194.255	24	330	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
 204.76.203.0	204.76.203.255	24	330	INTELLIGENCE-ATOM-HOSTING	KN	None
-71.6.233.0	71.6.233.255	24	330	CARINET	US	complaints@cari.net
-198.235.24.0	198.235.24.255	24	330	GOOGLE-CLOUD-PLATFORM	US	None
-88.218.193.0	88.218.193.255	24	330	XNNET	US	sysadmin@tandbergdata.com
-20.65.194.0	20.65.194.255	24	329	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
-64.62.156.0	64.62.156.255	24	329	HURRICANE	US	abuse@he.net
