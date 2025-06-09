@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-09T15:30:37.058339
+#    updated: 2025-06-09T16:30:32.342552
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 79.124.62.0	79.124.62.255	24	446	DM_AUTO	BG	abuse@dm-auto.eu
 88.218.193.0	88.218.193.255	24	404	XNNET	US	sysadmin@tandbergdata.com
 64.62.197.0	64.62.197.255	24	401	HURRICANE	US	abuse@he.net
-185.83.152.0	185.83.152.255	24	399	IMPELLING	GB	abuse@impelling.co.uk
+185.83.152.0	185.83.152.255	24	400	IMPELLING	GB	abuse@impelling.co.uk
 167.94.138.0	167.94.138.255	24	395	CENSYS-ARIN-01	US	None
 65.49.1.0	65.49.1.255	24	394	HURRICANE	US	abuse@he.net
 87.121.84.0	87.121.84.255	24	394	EPIKWIRE-NET	GB	>>UNKNOWN<<
