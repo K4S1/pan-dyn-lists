@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-20T09:45:29.867283
+#    updated: 2025-06-20T10:45:30.656421
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	414	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	415	DM_AUTO	BG	abuse@dm-auto.eu
 104.234.115.0	104.234.115.255	24	379	DAILY	TR	abuse@orbittelekom.com
 64.62.197.0	64.62.197.255	24	378	HURRICANE	US	abuse@he.net
 206.168.34.0	206.168.34.255	24	376	-	-	-
@@ -36,10 +36,10 @@
 176.65.148.0	176.65.148.255	24	372	-	-	-
 167.94.138.0	167.94.138.255	24	371	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	370	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+45.82.76.0	45.82.76.255	24	369	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 91.196.152.0	91.196.152.255	24	369	ATT-INTERNET4	US	abuse@att.net
 198.235.24.0	198.235.24.255	24	369	GOOGLE-CLOUD-PLATFORM	US	None
 213.209.143.0	213.209.143.255	24	369	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-45.82.76.0	45.82.76.255	24	367	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 45.156.87.0	45.156.87.255	24	367	SKYLINK	NL	marcel.vm@gmx.de
 65.49.1.0	65.49.1.255	24	366	HURRICANE	US	abuse@he.net
 199.45.154.0	199.45.154.255	24	366	CENSYS-ARIN-03	US	None
