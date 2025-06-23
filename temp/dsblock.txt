@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-23T13:15:36.166368
+#    updated: 2025-06-23T15:30:38.071713
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,7 +31,7 @@
 205.210.31.0	205.210.31.255	24	386	GOOGLE-CLOUD-PLATFORM	US	None
 91.196.152.0	91.196.152.255	24	384	ATT-INTERNET4	US	abuse@att.net
 167.94.138.0	167.94.138.255	24	384	CENSYS-ARIN-01	US	None
-88.218.193.0	88.218.193.255	24	382	XNNET	US	sysadmin@tandbergdata.com
+88.218.193.0	88.218.193.255	24	383	XNNET	US	sysadmin@tandbergdata.com
 64.62.197.0	64.62.197.255	24	381	HURRICANE	US	abuse@he.net
 176.65.148.0	176.65.148.255	24	381	-	-	-
 193.163.125.0	193.163.125.255	24	380	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -44,5 +44,5 @@
 45.135.194.0	45.135.194.255	24	374	-	-	-
 167.94.146.0	167.94.146.255	24	371	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.255	24	371	GOOGLE-CLOUD-PLATFORM	US	None
+45.82.76.0	45.82.76.255	24	368	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 147.185.132.0	147.185.132.255	24	368	GOOGLE-CLOUD-PLATFORM	US	None
-185.242.226.0	185.242.226.255	24	368	AS49870-BV	NL	abuse@westcall.ru
