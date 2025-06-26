@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-26T16:30:15.577658
+#    updated: 2025-06-26T17:30:15.979455
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 79.124.62.0	79.124.62.255	24	408	DM_AUTO	BG	abuse@dm-auto.eu
-185.242.226.0	185.242.226.255	24	352	AS49870-BV	NL	abuse@westcall.ru
+64.62.197.0	64.62.197.255	24	353	HURRICANE	US	abuse@he.net
 104.234.115.0	104.234.115.255	24	352	DAILY	TR	abuse@orbittelekom.com
-64.62.197.0	64.62.197.255	24	352	HURRICANE	US	abuse@he.net
-45.133.74.0	45.133.74.255	24	342	ITP-SOLUTIONS	DE	abuse@itp-solutions.de
-64.62.156.0	64.62.156.255	24	341	HURRICANE	US	abuse@he.net
+185.242.226.0	185.242.226.255	24	352	AS49870-BV	NL	abuse@westcall.ru
+45.133.74.0	45.133.74.255	24	348	ITP-SOLUTIONS	DE	abuse@itp-solutions.de
+64.62.156.0	64.62.156.255	24	342	HURRICANE	US	abuse@he.net
 185.218.84.0	185.218.84.255	24	340	-	-	-
-194.50.16.0	194.50.16.255	24	337	AS49870-BV	NL	abuse@westcall.ru
 45.135.193.0	45.135.193.255	24	337	-	-	-
+194.50.16.0	194.50.16.255	24	337	AS49870-BV	NL	abuse@westcall.ru
 65.49.1.0	65.49.1.255	24	336	HURRICANE	US	abuse@he.net
+87.121.84.0	87.121.84.255	24	335	EPIKWIRE-NET	GB	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	334	EAJ-GLOBAL	GB	>>UNKNOWN<<
+83.222.191.0	83.222.191.255	24	333	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 206.168.34.0	206.168.34.255	24	333	-	-	-
 213.209.143.0	213.209.143.255	24	333	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-87.121.84.0	87.121.84.255	24	333	EPIKWIRE-NET	GB	>>UNKNOWN<<
-83.222.191.0	83.222.191.255	24	333	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+167.94.138.0	167.94.138.255	24	332	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	332	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-195.184.76.0	195.184.76.255	24	330	EAJ-GLOBAL	GB	>>UNKNOWN<<
-198.55.98.0	198.55.98.255	24	330	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
-207.167.67.0	207.167.67.255	24	330	DEDIOUTLET-NETWORKS	US	None
+176.65.148.0	176.65.148.255	24	331	-	-	-
 204.76.203.0	204.76.203.255	24	330	INTELLIGENCE-ATOM-HOSTING	KN	None
-176.65.148.0	176.65.148.255	24	329	-	-	-
+198.55.98.0	198.55.98.255	24	330	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
