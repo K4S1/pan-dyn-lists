@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-02T09:00:39.230157
+#    updated: 2025-07-02T10:00:39.511660
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 45.135.193.0	45.135.193.255	24	388	-	-	-
 193.163.125.0	193.163.125.255	24	388	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 198.55.98.0	198.55.98.255	24	388	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
+45.82.76.0	45.82.76.255	24	387	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 154.212.141.0	154.212.141.255	24	387	MULTA-ASN1	US	abuse@multacom.com
 185.218.84.0	185.218.84.255	24	386	-	-	-
 199.45.154.0	199.45.154.255	24	386	CENSYS-ARIN-03	US	None
 213.209.143.0	213.209.143.255	24	386	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-45.82.76.0	45.82.76.255	24	385	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 167.94.146.0	167.94.146.255	24	385	CENSYS-ARIN-02	US	None
 20.65.194.0	20.65.194.255	24	384	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
 65.49.1.0	65.49.1.255	24	384	HURRICANE	US	abuse@he.net
