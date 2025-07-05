@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-05T11:45:40.236271
+#    updated: 2025-07-05T12:45:41.828755
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 64.62.156.0	64.62.156.255	24	395	HURRICANE	US	abuse@he.net
 45.194.66.0	45.194.66.255	24	394	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 87.121.84.0	87.121.84.255	24	392	EPIKWIRE-NET	GB	>>UNKNOWN<<
-45.156.87.0	45.156.87.255	24	390	SKYLINK	NL	marcel.vm@gmx.de
+45.156.87.0	45.156.87.255	24	391	SKYLINK	NL	marcel.vm@gmx.de
 167.94.146.0	167.94.146.255	24	390	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	390	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 204.76.203.0	204.76.203.255	24	389	INTELLIGENCE-ATOM-HOSTING	KN	None
 206.168.34.0	206.168.34.255	24	387	-	-	-
+45.82.76.0	45.82.76.255	24	386	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 93.152.230.0	93.152.230.255	24	386	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-45.82.76.0	45.82.76.255	24	385	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 176.65.148.0	176.65.148.255	24	385	-	-	-
 199.45.154.0	199.45.154.255	24	383	CENSYS-ARIN-03	US	None
 185.224.128.0	185.224.128.255	24	382	AS49870-BV	NL	abuse@westcall.ru
