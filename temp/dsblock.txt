@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-18T09:00:54.193837
+#    updated: 2025-07-18T11:00:53.449344
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,12 +26,12 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	445	DM_AUTO	BG	abuse@dm-auto.eu
-104.234.115.0	104.234.115.255	24	411	DAILY	TR	abuse@orbittelekom.com
+79.124.62.0	79.124.62.255	24	446	DM_AUTO	BG	abuse@dm-auto.eu
+104.234.115.0	104.234.115.255	24	412	DAILY	TR	abuse@orbittelekom.com
 176.65.148.0	176.65.148.255	24	411	-	-	-
 193.163.125.0	193.163.125.255	24	406	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	404	GOOGLE-CLOUD-PLATFORM	US	None
-65.49.1.0	65.49.1.255	24	401	HURRICANE	US	abuse@he.net
+65.49.1.0	65.49.1.255	24	402	HURRICANE	US	abuse@he.net
 91.196.152.0	91.196.152.255	24	401	ATT-INTERNET4	US	abuse@att.net
 204.76.203.0	204.76.203.255	24	401	INTELLIGENCE-ATOM-HOSTING	KN	None
 87.121.84.0	87.121.84.255	24	400	EPIKWIRE-NET	GB	>>UNKNOWN<<
