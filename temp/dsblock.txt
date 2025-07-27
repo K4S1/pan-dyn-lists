@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-27T11:15:46.943283
+#    updated: 2025-07-27T12:15:47.681125
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,8 +27,8 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 79.124.62.0	79.124.62.255	24	495	DM_AUTO	BG	abuse@dm-auto.eu
+93.152.230.0	93.152.230.255	24	419	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 167.94.145.0	167.94.145.255	24	419	CENSYS-ARIN-02	US	None
-93.152.230.0	93.152.230.255	24	418	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 198.235.24.0	198.235.24.255	24	415	GOOGLE-CLOUD-PLATFORM	US	None
 213.209.143.0	213.209.143.255	24	413	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 205.210.31.0	205.210.31.255	24	411	GOOGLE-CLOUD-PLATFORM	US	None
