@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-29T04:00:40.079379
+#    updated: 2025-07-29T05:00:38.749124
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,8 +27,8 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 205.210.31.0	205.210.31.255	24	408	GOOGLE-CLOUD-PLATFORM	US	None
-176.65.148.0	176.65.148.255	24	402	-	-	-
 206.168.34.0	206.168.34.255	24	402	-	-	-
+176.65.148.0	176.65.148.255	24	402	-	-	-
 167.94.146.0	167.94.146.255	24	399	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.255	24	399	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.255	24	399	GOOGLE-CLOUD-PLATFORM	US	None
@@ -40,9 +40,9 @@
 147.185.132.0	147.185.132.255	24	395	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	395	HURRICANE	US	abuse@he.net
 93.152.230.0	93.152.230.255	24	395	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-64.62.156.0	64.62.156.255	24	388	HURRICANE	US	abuse@he.net
 204.76.203.0	204.76.203.255	24	388	INTELLIGENCE-ATOM-HOSTING	KN	None
-45.142.154.0	45.142.154.255	24	387	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
+64.62.156.0	64.62.156.255	24	388	HURRICANE	US	abuse@he.net
 45.194.66.0	45.194.66.255	24	387	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+45.142.154.0	45.142.154.255	24	387	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 104.234.115.0	104.234.115.255	24	386	DAILY	TR	abuse@orbittelekom.com
 83.222.191.0	83.222.191.255	24	384	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
