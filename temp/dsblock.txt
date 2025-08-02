@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-02T07:30:37.832682
+#    updated: 2025-08-02T08:30:39.796182
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,9 +35,9 @@
 104.234.115.0	104.234.115.255	24	396	DAILY	TR	abuse@orbittelekom.com
 167.94.145.0	167.94.145.255	24	393	CENSYS-ARIN-02	US	None
 206.168.34.0	206.168.34.255	24	393	-	-	-
+167.94.138.0	167.94.138.255	24	392	CENSYS-ARIN-01	US	None
 199.45.154.0	199.45.154.255	24	392	CENSYS-ARIN-03	US	None
 68.69.186.0	68.69.186.255	24	391	DEDIOUTLET-NETWORKS	US	None
-167.94.138.0	167.94.138.255	24	391	CENSYS-ARIN-01	US	None
 176.65.148.0	176.65.148.255	24	391	-	-	-
 205.210.31.0	205.210.31.255	24	390	GOOGLE-CLOUD-PLATFORM	US	None
 213.209.143.0	213.209.143.255	24	388	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
