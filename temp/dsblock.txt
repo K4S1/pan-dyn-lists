@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-02T20:15:22.103589
+#    updated: 2025-08-02T21:30:22.163010
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 167.94.145.0	167.94.145.255	24	343	CENSYS-ARIN-02	US	None
 185.91.127.0	185.91.127.255	24	342	FERDINANDZINK	DE	abuse@vodafone.net.tr
 104.234.115.0	104.234.115.255	24	341	DAILY	TR	abuse@orbittelekom.com
-193.46.255.0	193.46.255.255	24	340	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
-194.50.16.0	194.50.16.255	24	340	AS49870-BV	NL	abuse@westcall.ru
 83.222.191.0	83.222.191.255	24	340	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+87.121.84.0	87.121.84.255	24	340	EPIKWIRE-NET	GB	>>UNKNOWN<<
+193.46.255.0	193.46.255.255	24	340	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
