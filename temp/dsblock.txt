@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-10T23:30:24.575502
+#    updated: 2025-08-11T02:45:24.274910
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 87.121.84.0	87.121.84.255	24	372	EPIKWIRE-NET	GB	>>UNKNOWN<<
 167.94.146.0	167.94.146.255	24	371	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.255	24	371	CENSYS-ARIN-02	US	None
-205.210.31.0	205.210.31.255	24	368	GOOGLE-CLOUD-PLATFORM	US	None
 83.222.191.0	83.222.191.255	24	368	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+205.210.31.0	205.210.31.255	24	368	GOOGLE-CLOUD-PLATFORM	US	None
 199.45.154.0	199.45.154.255	24	367	CENSYS-ARIN-03	US	None
