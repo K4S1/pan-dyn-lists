@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-12T08:45:36.564138
+#    updated: 2025-08-12T10:45:36.791954
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-123.136.6.0	123.136.6.255	24	493	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
+123.136.6.0	123.136.6.255	24	494	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
 185.242.226.0	185.242.226.255	24	406	AS49870-BV	NL	abuse@westcall.ru
 198.235.24.0	198.235.24.255	24	396	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	394	HURRICANE	US	abuse@he.net
@@ -44,5 +44,5 @@
 93.152.230.0	93.152.230.255	24	376	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 193.3.53.0	193.3.53.255	24	376	SECURITYTRAILS	US	>>UNKNOWN<<
 185.91.127.0	185.91.127.255	24	375	FERDINANDZINK	DE	abuse@vodafone.net.tr
-205.210.31.0	205.210.31.255	24	373	GOOGLE-CLOUD-PLATFORM	US	None
-87.121.84.0	87.121.84.255	24	372	EPIKWIRE-NET	GB	>>UNKNOWN<<
+207.167.67.0	207.167.67.255	24	374	DEDIOUTLET-NETWORKS	US	None
+66.240.192.0	66.240.192.255	24	373	CARINET	US	complaints@cari.net
