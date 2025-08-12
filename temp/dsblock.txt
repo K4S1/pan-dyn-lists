@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-12T10:45:36.791954
+#    updated: 2025-08-12T13:00:37.905317
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 176.65.148.0	176.65.148.255	24	382	-	-	-
 64.62.197.0	64.62.197.255	24	378	HURRICANE	US	abuse@he.net
 91.230.168.0	91.230.168.255	24	378	BHA	FR	abuse@bha-conseil.com
+207.167.67.0	207.167.67.255	24	377	DEDIOUTLET-NETWORKS	US	None
 83.222.191.0	83.222.191.255	24	376	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 93.152.230.0	93.152.230.255	24	376	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 193.3.53.0	193.3.53.255	24	376	SECURITYTRAILS	US	>>UNKNOWN<<
 185.91.127.0	185.91.127.255	24	375	FERDINANDZINK	DE	abuse@vodafone.net.tr
-207.167.67.0	207.167.67.255	24	374	DEDIOUTLET-NETWORKS	US	None
 66.240.192.0	66.240.192.255	24	373	CARINET	US	complaints@cari.net
