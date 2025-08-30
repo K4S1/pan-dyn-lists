@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-30T08:46:11.258188
+#    updated: 2025-08-30T09:46:13.277710
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 123.136.6.0	123.136.6.255	24	474	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
 93.152.230.0	93.152.230.255	24	409	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 198.235.24.0	198.235.24.255	24	408	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	402	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	403	CENSYS-ARIN-01	US	None
 206.168.34.0	206.168.34.255	24	402	-	-	-
 64.62.156.0	64.62.156.255	24	401	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	401	HURRICANE	US	abuse@he.net
@@ -39,8 +39,8 @@
 205.210.31.0	205.210.31.255	24	397	GOOGLE-CLOUD-PLATFORM	US	None
 79.124.49.0	79.124.49.255	24	396	TAMATIYA-AS	BG	noc@4vendeta.com
 64.62.197.0	64.62.197.255	24	394	HURRICANE	US	abuse@he.net
+71.6.233.0	71.6.233.255	24	394	CARINET	US	complaints@cari.net
 176.65.148.0	176.65.148.255	24	394	-	-	-
-71.6.233.0	71.6.233.255	24	393	CARINET	US	complaints@cari.net
 204.76.203.0	204.76.203.255	24	389	INTELLIGENCE-ATOM-HOSTING	KN	None
 147.185.132.0	147.185.132.255	24	388	GOOGLE-CLOUD-PLATFORM	US	None
 91.196.152.0	91.196.152.255	24	386	ATT-INTERNET4	US	abuse@att.net
