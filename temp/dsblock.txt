@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-14T18:30:51.915231
+#    updated: 2025-09-14T19:30:49.279142
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,11 +30,11 @@
 134.255.231.0	134.255.231.255	24	403	AUROLOGIC aurologic GmbH	DE	abuse@combahton.net
 167.94.146.0	167.94.146.255	24	386	CENSYS-ARIN-02	US	None
 206.168.34.0	206.168.34.255	24	385	-	-	-
-167.94.138.0	167.94.138.255	24	382	CENSYS-ARIN-01	US	None
 164.90.180.0	164.90.180.255	24	382	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
-64.62.197.0	64.62.197.255	24	381	HURRICANE	US	abuse@he.net
+167.94.138.0	167.94.138.255	24	382	CENSYS-ARIN-01	US	None
 64.62.156.0	64.62.156.255	24	381	HURRICANE	US	abuse@he.net
 216.180.246.0	216.180.246.255	24	381	NTHL	US	abuse@networktransit.net
+64.62.197.0	64.62.197.255	24	381	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	380	GOOGLE-CLOUD-PLATFORM	US	None
 146.88.240.0	146.88.240.255	24	378	ARBOR	US	hostmaster@arbor.net
 193.163.125.0	193.163.125.255	24	377	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -44,5 +44,5 @@
 79.124.49.0	79.124.49.255	24	376	TAMATIYA-AS	BG	noc@4vendeta.com
 93.152.230.0	93.152.230.255	24	375	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 176.65.148.0	176.65.148.255	24	374	-	-	-
-195.184.76.0	195.184.76.255	24	373	EAJ-GLOBAL	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	373	HURRICANE	US	abuse@he.net
+195.184.76.0	195.184.76.255	24	373	EAJ-GLOBAL	GB	>>UNKNOWN<<
