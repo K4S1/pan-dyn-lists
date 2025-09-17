@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-17T20:15:59.644085
+#    updated: 2025-09-17T21:16:01.071696
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,11 +33,11 @@
 146.88.240.0	146.88.240.255	24	381	ARBOR	US	hostmaster@arbor.net
 216.180.246.0	216.180.246.255	24	381	NTHL	US	abuse@networktransit.net
 167.94.145.0	167.94.145.255	24	380	CENSYS-ARIN-02	US	None
-37.60.141.0	37.60.141.255	24	375	SKATTV-AS	BG	abuse@neterra.net
 206.168.34.0	206.168.34.255	24	375	-	-	-
+37.60.141.0	37.60.141.255	24	375	SKATTV-AS	BG	abuse@neterra.net
+167.94.138.0	167.94.138.255	24	374	CENSYS-ARIN-01	US	None
 93.152.230.0	93.152.230.255	24	374	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 205.210.31.0	205.210.31.255	24	374	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	374	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	371	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.255	24	370	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	369	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -45,4 +45,4 @@
 91.196.152.0	91.196.152.255	24	367	ATT-INTERNET4	US	abuse@att.net
 64.62.197.0	64.62.197.255	24	366	HURRICANE	US	abuse@he.net
 199.45.154.0	199.45.154.255	24	364	CENSYS-ARIN-03	US	None
-45.142.193.0	45.142.193.255	24	363	MAGHOST_	RO	office@magbross.ro
+207.90.244.0	207.90.244.255	24	363	COGENT-174	US	abuse@cogentco.com
