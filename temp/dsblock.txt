@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-22T01:30:49.949395
+#    updated: 2025-09-22T02:30:49.700011
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,10 +33,10 @@
 172.59.229.0	172.59.229.255	24	371	T-MOBILE-AS21928	US	abuse@t-mobile.com
 66.132.153.0	66.132.153.255	24	369	-	-	-
 195.184.76.0	195.184.76.255	24	368	EAJ-GLOBAL	GB	>>UNKNOWN<<
-172.59.228.0	172.59.228.255	24	365	T-MOBILE-AS21928	US	abuse@t-mobile.com
-65.49.1.0	65.49.1.255	24	365	HURRICANE	US	abuse@he.net
 199.45.154.0	199.45.154.255	24	365	CENSYS-ARIN-03	US	None
 204.76.203.0	204.76.203.255	24	365	INTELLIGENCE-ATOM-HOSTING	KN	None
+172.59.228.0	172.59.228.255	24	365	T-MOBILE-AS21928	US	abuse@t-mobile.com
+65.49.1.0	65.49.1.255	24	365	HURRICANE	US	abuse@he.net
 198.235.24.0	198.235.24.255	24	363	GOOGLE-CLOUD-PLATFORM	US	None
 207.90.244.0	207.90.244.255	24	363	COGENT-174	US	abuse@cogentco.com
 205.210.31.0	205.210.31.255	24	362	GOOGLE-CLOUD-PLATFORM	US	None
