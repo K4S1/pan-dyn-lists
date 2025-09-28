@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-28T15:45:58.333201
+#    updated: 2025-09-28T16:45:58.535494
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,8 +27,8 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 65.49.1.0	65.49.1.255	24	391	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.255	24	383	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 216.180.246.0	216.180.246.255	24	383	NTHL	US	abuse@networktransit.net
+193.163.125.0	193.163.125.255	24	383	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 204.76.203.0	204.76.203.255	24	380	INTELLIGENCE-ATOM-HOSTING	KN	None
 93.152.230.0	93.152.230.255	24	380	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 91.196.152.0	91.196.152.255	24	377	ATT-INTERNET4	US	abuse@att.net
@@ -37,8 +37,8 @@
 167.94.145.0	167.94.145.255	24	372	CENSYS-ARIN-02	US	None
 167.94.138.0	167.94.138.255	24	371	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.255	24	369	GOOGLE-CLOUD-PLATFORM	US	None
-195.184.76.0	195.184.76.255	24	368	EAJ-GLOBAL	GB	>>UNKNOWN<<
 64.62.156.0	64.62.156.255	24	368	HURRICANE	US	abuse@he.net
+195.184.76.0	195.184.76.255	24	368	EAJ-GLOBAL	GB	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	367	GOOGLE-CLOUD-PLATFORM	US	None
 207.90.244.0	207.90.244.255	24	366	COGENT-174	US	abuse@cogentco.com
 195.96.129.0	195.96.129.255	24	365	HALSERVICE	IT	pbelotti@halservice.it
