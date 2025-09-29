@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-29T15:00:46.523908
+#    updated: 2025-09-29T16:00:50.286307
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 216.180.246.0	216.180.246.255	24	307	NTHL	US	abuse@networktransit.net
 167.94.146.0	167.94.146.255	24	306	CENSYS-ARIN-02	US	None
 194.180.48.0	194.180.48.255	24	305	-	-	-
-91.224.92.0	91.224.92.255	24	304	HOSTBALTIC	LT	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	304	EAJ-GLOBAL	GB	>>UNKNOWN<<
