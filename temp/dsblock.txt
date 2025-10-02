@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-02T16:15:32.643803
+#    updated: 2025-10-02T17:30:33.005685
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,10 +39,10 @@
 167.94.146.0	167.94.146.255	24	307	CENSYS-ARIN-02	US	None
 207.90.244.0	207.90.244.255	24	306	COGENT-174	US	abuse@cogentco.com
 94.156.152.0	94.156.152.255	24	304	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
+91.224.92.0	91.224.92.255	24	302	HOSTBALTIC	LT	>>UNKNOWN<<
 93.152.230.0	93.152.230.255	24	302	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 167.94.145.0	167.94.145.255	24	302	CENSYS-ARIN-02	US	None
 162.216.150.0	162.216.150.255	24	302	GOOGLE	US	network-abuse@google.com
-91.224.92.0	91.224.92.255	24	302	HOSTBALTIC	LT	>>UNKNOWN<<
 195.184.76.0	195.184.76.255	24	301	EAJ-GLOBAL	GB	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	301	GOOGLE-CLOUD-PLATFORM	US	None
 91.231.89.0	91.231.89.255	24	301	BHA	FR	abuse@bha-conseil.com
