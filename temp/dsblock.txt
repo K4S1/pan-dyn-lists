@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-03T02:31:04.953453
+#    updated: 2025-10-03T03:16:03.873645
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,12 +36,12 @@
 195.184.76.0	195.184.76.255	24	369	EAJ-GLOBAL	GB	>>UNKNOWN<<
 78.128.114.0	78.128.114.255	24	368	TAMATIYA-AS	BG	noc@4vendeta.com
 167.94.146.0	167.94.146.255	24	368	CENSYS-ARIN-02	US	None
-94.156.152.0	94.156.152.255	24	367	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
 64.62.197.0	64.62.197.255	24	367	HURRICANE	US	abuse@he.net
+94.156.152.0	94.156.152.255	24	367	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
+204.76.203.0	204.76.203.255	24	365	INTELLIGENCE-ATOM-HOSTING	KN	None
 205.210.31.0	205.210.31.255	24	365	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	365	GOOGLE-CLOUD-PLATFORM	US	None
 123.136.6.0	123.136.6.255	24	365	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
-204.76.203.0	204.76.203.255	24	365	INTELLIGENCE-ATOM-HOSTING	KN	None
 167.94.145.0	167.94.145.255	24	364	CENSYS-ARIN-02	US	None
 195.178.110.0	195.178.110.255	24	361	DATAFOREST	DE	abuse@timeweb.ru
 45.142.154.0	45.142.154.255	24	357	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
