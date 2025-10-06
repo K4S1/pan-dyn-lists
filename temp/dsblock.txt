@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-06T21:15:26.952259
+#    updated: 2025-10-06T22:45:26.327368
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,13 +32,13 @@
 206.168.34.0	206.168.34.255	24	317	-	-	-
 93.152.230.0	93.152.230.255	24	316	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 195.178.110.0	195.178.110.255	24	315	DATAFOREST	DE	abuse@timeweb.ru
-71.6.232.0	71.6.232.255	24	314	CARINET	US	complaints@cari.net
 65.49.1.0	65.49.1.255	24	314	HURRICANE	US	abuse@he.net
+71.6.232.0	71.6.232.255	24	314	CARINET	US	complaints@cari.net
 167.94.146.0	167.94.146.255	24	312	CENSYS-ARIN-02	US	None
 194.180.48.0	194.180.48.255	24	311	-	-	-
+64.62.156.0	64.62.156.255	24	309	HURRICANE	US	abuse@he.net
 167.94.138.0	167.94.138.255	24	309	CENSYS-ARIN-01	US	None
 66.240.192.0	66.240.192.255	24	309	CARINET	US	complaints@cari.net
-64.62.156.0	64.62.156.255	24	309	HURRICANE	US	abuse@he.net
 78.128.114.0	78.128.114.255	24	308	TAMATIYA-AS	BG	noc@4vendeta.com
 176.65.148.0	176.65.148.255	24	307	-	-	-
 193.163.125.0	193.163.125.255	24	307	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
