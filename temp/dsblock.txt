@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-11T14:16:03.547227
+#    updated: 2025-10-11T16:16:02.643582
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 195.178.110.0	195.178.110.255	24	363	DATAFOREST	DE	abuse@timeweb.ru
 205.210.31.0	205.210.31.255	24	362	GOOGLE-CLOUD-PLATFORM	US	None
 93.123.109.0	93.123.109.255	24	361	SARNICA-AS	BG	nebi78@mail.bg
+176.65.148.0	176.65.148.255	24	361	-	-	-
 176.65.149.0	176.65.149.255	24	361	-	-	-
 176.65.141.0	176.65.141.255	24	360	-	-	-
-176.65.148.0	176.65.148.255	24	360	-	-	-
 66.132.153.0	66.132.153.255	24	356	-	-	-
