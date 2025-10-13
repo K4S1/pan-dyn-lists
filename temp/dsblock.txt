@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-13T02:30:52.337864
+#    updated: 2025-10-13T03:45:53.035934
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,9 +35,9 @@
 204.76.203.0	204.76.203.255	24	362	INTELLIGENCE-ATOM-HOSTING	KN	None
 216.180.246.0	216.180.246.255	24	361	NTHL	US	abuse@networktransit.net
 206.168.34.0	206.168.34.255	24	358	-	-	-
+176.65.148.0	176.65.148.255	24	355	-	-	-
 87.120.191.0	87.120.191.255	24	355	SKATTV-AS	BG	abuse@neterra.net
 193.163.125.0	193.163.125.255	24	355	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-176.65.148.0	176.65.148.255	24	355	-	-	-
 87.121.84.0	87.121.84.255	24	354	EPIKWIRE-NET	GB	>>UNKNOWN<<
 167.94.146.0	167.94.146.255	24	353	CENSYS-ARIN-02	US	None
 205.210.31.0	205.210.31.255	24	353	GOOGLE-CLOUD-PLATFORM	US	None
