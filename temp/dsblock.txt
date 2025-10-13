@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-13T09:45:57.545379
+#    updated: 2025-10-13T10:45:57.118336
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-65.49.1.0	65.49.1.255	24	374	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	374	GOOGLE-CLOUD-PLATFORM	US	None
+65.49.1.0	65.49.1.255	24	374	HURRICANE	US	abuse@he.net
 199.45.154.0	199.45.154.255	24	371	CENSYS-ARIN-03	US	None
 64.62.156.0	64.62.156.255	24	369	HURRICANE	US	abuse@he.net
 66.132.153.0	66.132.153.255	24	368	-	-	-
@@ -38,11 +38,11 @@
 167.94.146.0	167.94.146.255	24	359	CENSYS-ARIN-02	US	None
 87.120.191.0	87.120.191.255	24	358	SKATTV-AS	BG	abuse@neterra.net
 87.121.84.0	87.121.84.255	24	357	EPIKWIRE-NET	GB	>>UNKNOWN<<
-193.163.125.0	193.163.125.255	24	356	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 176.65.148.0	176.65.148.255	24	356	-	-	-
-205.210.31.0	205.210.31.255	24	354	GOOGLE-CLOUD-PLATFORM	US	None
-79.124.49.0	79.124.49.255	24	354	TAMATIYA-AS	BG	noc@4vendeta.com
+193.163.125.0	193.163.125.255	24	356	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 194.180.48.0	194.180.48.255	24	354	-	-	-
+79.124.49.0	79.124.49.255	24	354	TAMATIYA-AS	BG	noc@4vendeta.com
+205.210.31.0	205.210.31.255	24	354	GOOGLE-CLOUD-PLATFORM	US	None
 176.65.149.0	176.65.149.255	24	353	-	-	-
 64.62.197.0	64.62.197.255	24	352	HURRICANE	US	abuse@he.net
-91.196.152.0	91.196.152.255	24	351	ATT-INTERNET4	US	abuse@att.net
+93.123.109.0	93.123.109.255	24	351	SARNICA-AS	BG	nebi78@mail.bg
