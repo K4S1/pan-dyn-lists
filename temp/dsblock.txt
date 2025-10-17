@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-17T20:00:44.350574
+#    updated: 2025-10-17T21:00:42.419563
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 193.3.53.0	193.3.53.255	24	289	SECURITYTRAILS	US	>>UNKNOWN<<
 91.231.89.0	91.231.89.255	24	287	BHA	FR	abuse@bha-conseil.com
 66.132.153.0	66.132.153.255	24	287	-	-	-
-193.163.125.0	193.163.125.255	24	286	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	286	CENSYS-ARIN-01	US	None
 87.120.191.0	87.120.191.255	24	286	SKATTV-AS	BG	abuse@neterra.net
 206.168.34.0	206.168.34.255	24	286	-	-	-
 93.123.109.0	93.123.109.255	24	286	SARNICA-AS	BG	nebi78@mail.bg
+193.163.125.0	193.163.125.255	24	286	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	285	GOOGLE-CLOUD-PLATFORM	US	None
