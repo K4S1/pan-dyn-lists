@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-17T13:00:27.606641
+#    updated: 2025-10-17T13:15:27.467118
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 78.153.140.0	78.153.140.255	24	277	HOSTGLOBALPLUS-AS	GB	abuse@hostglobal.plus
 91.231.89.0	91.231.89.255	24	276	BHA	FR	abuse@bha-conseil.com
 45.142.154.0	45.142.154.255	24	276	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
-193.163.125.0	193.163.125.255	24	274	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 176.65.148.0	176.65.148.255	24	274	-	-	-
+91.224.92.0	91.224.92.255	24	274	HOSTBALTIC	LT	>>UNKNOWN<<
