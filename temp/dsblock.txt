@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-20T07:30:39.183780
+#    updated: 2025-10-20T08:30:39.502399
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,10 +38,10 @@
 193.163.125.0	193.163.125.255	24	344	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 64.62.156.0	64.62.156.255	24	344	HURRICANE	US	abuse@he.net
 204.76.203.0	204.76.203.255	24	340	INTELLIGENCE-ATOM-HOSTING	KN	None
+5.253.86.0	5.253.86.255	24	339	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
 198.235.24.0	198.235.24.255	24	339	GOOGLE-CLOUD-PLATFORM	US	None
 87.120.191.0	87.120.191.255	24	339	SKATTV-AS	BG	abuse@neterra.net
 64.62.197.0	64.62.197.255	24	339	HURRICANE	US	abuse@he.net
-5.253.86.0	5.253.86.255	24	339	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
 167.94.145.0	167.94.145.255	24	338	CENSYS-ARIN-02	US	None
 195.96.129.0	195.96.129.255	24	338	HALSERVICE	IT	pbelotti@halservice.it
 192.159.99.0	192.159.99.255	24	337	1GSERVERS	US	eruiz@cafepress.com
