@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-24T06:00:49.220730
+#    updated: 2025-10-24T06:45:49.290206
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,14 +35,14 @@
 66.132.153.0	66.132.153.255	24	347	-	-	-
 193.142.147.0	193.142.147.255	24	346	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
 207.90.244.0	207.90.244.255	24	345	COGENT-174	US	abuse@cogentco.com
-195.184.76.0	195.184.76.255	24	344	EAJ-GLOBAL	GB	>>UNKNOWN<<
 199.45.154.0	199.45.154.255	24	344	CENSYS-ARIN-03	US	None
 93.152.230.0	93.152.230.255	24	344	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
+195.184.76.0	195.184.76.255	24	344	EAJ-GLOBAL	GB	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	343	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	343	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	342	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.197.0	64.62.197.255	24	342	HURRICANE	US	abuse@he.net
 185.242.226.0	185.242.226.255	24	341	AS49870-BV	NL	abuse@westcall.ru
-176.65.149.0	176.65.149.255	24	340	-	-	-
 78.128.114.0	78.128.114.255	24	340	TAMATIYA-AS	BG	noc@4vendeta.com
 65.49.1.0	65.49.1.255	24	340	HURRICANE	US	abuse@he.net
+176.65.149.0	176.65.149.255	24	340	-	-	-
