@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-24T17:30:49.497064
+#    updated: 2025-10-24T18:30:52.312165
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,9 +31,9 @@
 193.142.147.0	193.142.147.255	24	350	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
 45.142.154.0	45.142.154.255	24	349	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 91.196.152.0	91.196.152.255	24	349	ATT-INTERNET4	US	abuse@att.net
+193.163.125.0	193.163.125.255	24	348	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 66.132.153.0	66.132.153.255	24	347	-	-	-
 195.184.76.0	195.184.76.255	24	347	EAJ-GLOBAL	GB	>>UNKNOWN<<
-193.163.125.0	193.163.125.255	24	347	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 62.60.131.0	62.60.131.255	24	347	HOSTIRAN-NETWORK	IR	abuse@hostiran.com
 199.45.154.0	199.45.154.255	24	345	CENSYS-ARIN-03	US	None
 207.90.244.0	207.90.244.255	24	345	COGENT-174	US	abuse@cogentco.com
