@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-11-01T20:15:21.276123
+#    updated: 2025-11-01T21:15:21.297172
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 217.154.8.0	217.154.8.255	24	298	EDGE ta GCI Com	GB	ripe@gcicom.net
 64.62.197.0	64.62.197.255	24	298	HURRICANE	US	abuse@he.net
 185.242.226.0	185.242.226.255	24	297	AS49870-BV	NL	abuse@westcall.ru
-64.62.156.0	64.62.156.255	24	296	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	296	HURRICANE	US	abuse@he.net
 195.184.76.0	195.184.76.255	24	296	EAJ-GLOBAL	GB	>>UNKNOWN<<
+64.62.156.0	64.62.156.255	24	296	HURRICANE	US	abuse@he.net
 167.94.138.0	167.94.138.255	24	294	CENSYS-ARIN-01	US	None
-167.94.145.0	167.94.145.255	24	293	CENSYS-ARIN-02	US	None
 199.45.154.0	199.45.154.255	24	293	CENSYS-ARIN-03	US	None
-91.230.168.0	91.230.168.255	24	292	BHA	FR	abuse@bha-conseil.com
+167.94.145.0	167.94.145.255	24	293	CENSYS-ARIN-02	US	None
 94.74.182.0	94.74.182.255	24	292	MHOST	IR	abuse@artaknet.com
-206.168.34.0	206.168.34.255	24	291	-	-	-
+91.230.168.0	91.230.168.255	24	292	BHA	FR	abuse@bha-conseil.com
 162.216.150.0	162.216.150.255	24	291	GOOGLE	US	network-abuse@google.com
+206.168.34.0	206.168.34.255	24	291	-	-	-
