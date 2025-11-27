@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-11-27T09:45:43.912357
+#    updated: 2025-11-27T10:30:45.612454
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,8 +33,8 @@
 204.76.203.0	204.76.203.255	24	335	INTELLIGENCE-ATOM-HOSTING	KN	None
 206.168.34.0	206.168.34.255	24	335	-	-	-
 78.128.114.0	78.128.114.255	24	334	TAMATIYA-AS	BG	noc@4vendeta.com
+65.49.1.0	65.49.1.255	24	333	HURRICANE	US	abuse@he.net
 213.209.143.0	213.209.143.255	24	333	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-65.49.1.0	65.49.1.255	24	332	HURRICANE	US	abuse@he.net
 205.210.31.0	205.210.31.255	24	332	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	331	HURRICANE	US	abuse@he.net
 66.132.153.0	66.132.153.255	24	331	-	-	-
