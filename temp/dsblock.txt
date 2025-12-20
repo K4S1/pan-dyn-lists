@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-20T09:45:28.568287
+#    updated: 2025-12-20T10:45:29.876479
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 185.91.127.0	185.91.127.255	24	332	FERDINANDZINK	DE	abuse@vodafone.net.tr
-5.187.35.0	5.187.35.255	24	328	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+5.187.35.0	5.187.35.255	24	330	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 199.45.154.0	199.45.154.255	24	328	CENSYS-ARIN-03	US	None
 65.49.1.0	65.49.1.255	24	327	HURRICANE	US	abuse@he.net
 64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
