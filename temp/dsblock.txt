@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-23T10:45:25.208285
+#    updated: 2025-12-23T12:00:26.510301
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,8 +31,8 @@
 66.132.153.0	66.132.153.255	24	328	-	-	-
 199.45.154.0	199.45.154.255	24	325	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.255	24	320	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+194.180.48.0	194.180.48.255	24	319	-	-	-
 167.94.138.0	167.94.138.255	24	318	CENSYS-ARIN-01	US	None
-194.180.48.0	194.180.48.255	24	318	-	-	-
 64.62.156.0	64.62.156.255	24	317	HURRICANE	US	abuse@he.net
 71.6.232.0	71.6.232.255	24	317	CARINET	US	complaints@cari.net
 87.121.84.0	87.121.84.255	24	316	EPIKWIRE-NET	GB	>>UNKNOWN<<
@@ -43,6 +43,6 @@
 176.65.149.0	176.65.149.255	24	310	-	-	-
 78.153.140.0	78.153.140.255	24	309	HOSTGLOBALPLUS-AS	GB	abuse@hostglobal.plus
 79.124.40.0	79.124.40.255	24	309	TAMATIYA-AS	BG	noc@4vendeta.com
+91.230.168.0	91.230.168.255	24	309	BHA	FR	abuse@bha-conseil.com
 198.235.24.0	198.235.24.255	24	309	GOOGLE-CLOUD-PLATFORM	US	None
-91.230.168.0	91.230.168.255	24	308	BHA	FR	abuse@bha-conseil.com
 91.196.152.0	91.196.152.255	24	307	ATT-INTERNET4	US	abuse@att.net
