@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-23T21:45:14.187446
+#    updated: 2025-12-23T22:45:15.714659
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-216.180.246.0	216.180.246.255	24	294	NTHL	US	abuse@networktransit.net
-95.214.55.0	95.214.55.255	24	287	MEVSPACE	PL	abuse@skynode.pl
+216.180.246.0	216.180.246.255	24	295	NTHL	US	abuse@networktransit.net
+206.168.34.0	206.168.34.255	24	289	-	-	-
+95.214.55.0	95.214.55.255	24	288	MEVSPACE	PL	abuse@skynode.pl
 64.62.156.0	64.62.156.255	24	286	HURRICANE	US	abuse@he.net
-206.168.34.0	206.168.34.255	24	285	-	-	-
 5.187.35.0	5.187.35.255	24	278	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 45.148.10.0	45.148.10.255	24	277	PPTECHNOLOGY	GB	abuse@vegatele.com
+91.224.92.0	91.224.92.255	24	277	HOSTBALTIC	LT	>>UNKNOWN<<
 66.132.153.0	66.132.153.255	24	277	-	-	-
-193.163.125.0	193.163.125.255	24	275	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-91.224.92.0	91.224.92.255	24	275	HOSTBALTIC	LT	>>UNKNOWN<<
-64.62.197.0	64.62.197.255	24	273	HURRICANE	US	abuse@he.net
-65.49.1.0	65.49.1.255	24	273	HURRICANE	US	abuse@he.net
+193.163.125.0	193.163.125.255	24	276	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+91.230.168.0	91.230.168.255	24	274	BHA	FR	abuse@bha-conseil.com
 91.196.152.0	91.196.152.255	24	273	ATT-INTERNET4	US	abuse@att.net
-91.230.168.0	91.230.168.255	24	272	BHA	FR	abuse@bha-conseil.com
-88.210.63.0	88.210.63.255	24	271	-	-	-
+65.49.1.0	65.49.1.255	24	273	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	273	HURRICANE	US	abuse@he.net
 204.76.203.0	204.76.203.255	24	271	INTELLIGENCE-ATOM-HOSTING	KN	None
+88.210.63.0	88.210.63.255	24	271	-	-	-
 194.180.48.0	194.180.48.255	24	270	-	-	-
 45.142.154.0	45.142.154.255	24	270	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
-45.227.254.0	45.227.254.255	24	269	Flyservers S.A.	PA	>>UNKNOWN<<
+45.227.254.0	45.227.254.255	24	270	Flyservers S.A.	PA	>>UNKNOWN<<
+45.82.76.0	45.82.76.255	24	269	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 45.194.92.0	45.194.92.255	24	268	MULTA-ASN1	US	abuse@multacom.com
-147.185.133.0	147.185.133.255	24	267	GOOGLE-CLOUD-PLATFORM	US	None
