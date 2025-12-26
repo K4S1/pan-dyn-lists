@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-26T14:00:27.393652
+#    updated: 2025-12-26T14:45:27.846077
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 64.62.197.0	64.62.197.255	24	313	HURRICANE	US	abuse@he.net
 100.29.192.0	100.29.192.255	24	313	AMAZON-AES	US	abuse@amazonaws.com
 91.230.168.0	91.230.168.255	24	312	BHA	FR	abuse@bha-conseil.com
-198.235.24.0	198.235.24.255	24	311	GOOGLE-CLOUD-PLATFORM	US	None
 206.168.34.0	206.168.34.255	24	311	-	-	-
+198.235.24.0	198.235.24.255	24	311	GOOGLE-CLOUD-PLATFORM	US	None
