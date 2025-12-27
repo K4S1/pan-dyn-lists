@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-27T04:00:25.649970
+#    updated: 2025-12-27T05:00:24.121561
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 45.142.154.0	45.142.154.255	24	311	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 204.76.203.0	204.76.203.255	24	311	INTELLIGENCE-ATOM-HOSTING	KN	None
 88.210.63.0	88.210.63.255	24	310	-	-	-
-78.153.140.0	78.153.140.255	24	309	HOSTGLOBALPLUS-AS	GB	abuse@hostglobal.plus
+95.214.55.0	95.214.55.255	24	309	MEVSPACE	PL	abuse@skynode.pl
