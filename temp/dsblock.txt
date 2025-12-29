@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-29T20:15:17.642605
+#    updated: 2025-12-29T20:30:17.414763
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,16 +33,16 @@
 193.163.125.0	193.163.125.255	24	280	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	278	HURRICANE	US	abuse@he.net
 205.210.31.0	205.210.31.255	24	276	GOOGLE-CLOUD-PLATFORM	US	None
+216.180.246.0	216.180.246.255	24	275	NTHL	US	abuse@networktransit.net
 204.76.203.0	204.76.203.255	24	275	INTELLIGENCE-ATOM-HOSTING	KN	None
 207.90.244.0	207.90.244.255	24	275	COGENT-174	US	abuse@cogentco.com
 206.168.34.0	206.168.34.255	24	275	-	-	-
 45.148.10.0	45.148.10.255	24	275	PPTECHNOLOGY	GB	abuse@vegatele.com
-216.180.246.0	216.180.246.255	24	275	NTHL	US	abuse@networktransit.net
 167.94.138.0	167.94.138.255	24	274	CENSYS-ARIN-01	US	None
 66.132.153.0	66.132.153.255	24	272	-	-	-
+194.180.48.0	194.180.48.255	24	271	-	-	-
 87.121.84.0	87.121.84.255	24	271	EPIKWIRE-NET	GB	>>UNKNOWN<<
 185.242.226.0	185.242.226.255	24	271	AS49870-BV	NL	abuse@westcall.ru
 71.6.232.0	71.6.232.255	24	271	CARINET	US	complaints@cari.net
-194.180.48.0	194.180.48.255	24	271	-	-	-
 167.94.146.0	167.94.146.255	24	270	CENSYS-ARIN-02	US	None
 89.42.231.0	89.42.231.255	24	270	CIANET-AS	RO	office@cianet.ro
