@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-04T12:15:31.304569
+#    updated: 2026-01-04T12:45:31.812078
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 167.94.138.0	167.94.138.255	24	316	CENSYS-ARIN-01	US	None
 45.82.76.0	45.82.76.255	24	314	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 213.209.159.0	213.209.159.255	24	313	AS43260	TR	ip@dgn.net.tr
-213.177.179.0	213.177.179.255	24	312	-	-	-
 91.224.92.0	91.224.92.255	24	312	HOSTBALTIC	LT	>>UNKNOWN<<
-195.184.76.0	195.184.76.255	24	311	EAJ-GLOBAL	GB	>>UNKNOWN<<
+213.177.179.0	213.177.179.255	24	312	-	-	-
 91.196.152.0	91.196.152.255	24	311	ATT-INTERNET4	US	abuse@att.net
 91.231.89.0	91.231.89.255	24	311	BHA	FR	abuse@bha-conseil.com
-185.242.226.0	185.242.226.255	24	310	AS49870-BV	NL	abuse@westcall.ru
+195.184.76.0	195.184.76.255	24	311	EAJ-GLOBAL	GB	>>UNKNOWN<<
+82.23.183.0	82.23.183.255	24	310	NTL	GB	abuse@virginmedia.com
