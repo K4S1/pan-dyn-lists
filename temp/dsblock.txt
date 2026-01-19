@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-19T18:15:07.442506
+#    updated: 2026-01-19T19:00:07.551005
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 91.230.168.0	91.230.168.255	24	151	BHA	FR	abuse@bha-conseil.com
 91.196.152.0	91.196.152.255	24	150	ATT-INTERNET4	US	abuse@att.net
 65.49.1.0	65.49.1.255	24	149	HURRICANE	US	abuse@he.net
-88.210.63.0	88.210.63.255	24	144	-	-	-
 135.237.126.0	135.237.126.255	24	144	-	-	-
+88.210.63.0	88.210.63.255	24	144	-	-	-
 167.94.138.0	167.94.138.255	24	143	CENSYS-ARIN-01	US	None
-64.62.156.0	64.62.156.255	24	142	HURRICANE	US	abuse@he.net
+89.42.231.0	89.42.231.255	24	142	CIANET-AS	RO	office@cianet.ro
