@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-31T12:00:27.218095
+#    updated: 2026-01-31T12:45:25.579189
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 205.210.31.0	205.210.31.255	24	315	GOOGLE-CLOUD-PLATFORM	US	None
 195.184.76.0	195.184.76.255	24	314	EAJ-GLOBAL	GB	>>UNKNOWN<<
 193.163.125.0	193.163.125.255	24	314	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	313	GOOGLE-CLOUD-PLATFORM	US	None
 216.180.246.0	216.180.246.255	24	313	NTHL	US	abuse@networktransit.net
-89.42.231.0	89.42.231.255	24	312	CIANET-AS	RO	office@cianet.ro
+198.235.24.0	198.235.24.255	24	313	GOOGLE-CLOUD-PLATFORM	US	None
 204.76.203.0	204.76.203.255	24	312	INTELLIGENCE-ATOM-HOSTING	KN	None
-178.20.210.0	178.20.210.255	24	311	AS43260	TR	ip@dgn.net.tr
+89.42.231.0	89.42.231.255	24	312	CIANET-AS	RO	office@cianet.ro
 213.209.159.0	213.209.159.255	24	311	AS43260	TR	ip@dgn.net.tr
+178.20.210.0	178.20.210.255	24	311	AS43260	TR	ip@dgn.net.tr
 45.156.87.0	45.156.87.255	24	309	SKYLINK	NL	marcel.vm@gmx.de
 176.65.148.0	176.65.148.255	24	308	-	-	-
