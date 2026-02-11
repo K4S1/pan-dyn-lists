@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-11T10:30:28.196870
+#    updated: 2026-02-11T11:30:27.824538
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 195.184.76.0	195.184.76.255	24	324	EAJ-GLOBAL	GB	>>UNKNOWN<<
 91.196.152.0	91.196.152.255	24	324	ATT-INTERNET4	US	abuse@att.net
 91.230.168.0	91.230.168.255	24	323	BHA	FR	abuse@bha-conseil.com
-45.156.128.0	45.156.128.255	24	323	AS-BITSIGHT	PT	>>UNKNOWN<<
 66.132.153.0	66.132.153.255	24	323	-	-	-
+45.156.128.0	45.156.128.255	24	323	AS-BITSIGHT	PT	>>UNKNOWN<<
