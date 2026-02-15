@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-15T14:45:25.860962
+#    updated: 2026-02-15T15:45:26.643846
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 64.62.197.0	64.62.197.255	24	334	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	332	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	331	HURRICANE	US	abuse@he.net
+204.76.203.0	204.76.203.255	24	330	INTELLIGENCE-ATOM-HOSTING	KN	None
 167.94.145.0	167.94.145.255	24	330	CENSYS-ARIN-02	US	None
 167.94.138.0	167.94.138.255	24	330	CENSYS-ARIN-01	US	None
-204.76.203.0	204.76.203.255	24	330	INTELLIGENCE-ATOM-HOSTING	KN	None
 206.168.34.0	206.168.34.255	24	328	-	-	-
-167.94.146.0	167.94.146.255	24	327	CENSYS-ARIN-02	US	None
 87.120.191.0	87.120.191.255	24	327	SKATTV-AS	BG	abuse@neterra.net
+167.94.146.0	167.94.146.255	24	327	CENSYS-ARIN-02	US	None
 45.153.34.0	45.153.34.255	24	325	SKYLINK	NL	marcel.vm@gmx.de
 45.82.76.0	45.82.76.255	24	321	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-176.65.148.0	176.65.148.255	24	320	-	-	-
+77.90.185.0	77.90.185.255	24	320	BTHOSTER	GB	abuse@inetia.pl
