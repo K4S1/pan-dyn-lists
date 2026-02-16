@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-16T14:45:26.559719
+#    updated: 2026-02-16T16:45:26.290343
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,8 +39,8 @@
 89.42.231.0	89.42.231.255	24	328	CIANET-AS	RO	office@cianet.ro
 204.76.203.0	204.76.203.255	24	327	INTELLIGENCE-ATOM-HOSTING	KN	None
 185.242.226.0	185.242.226.255	24	325	AS49870-BV	NL	abuse@westcall.ru
-176.65.148.0	176.65.148.255	24	324	-	-	-
 167.94.138.0	167.94.138.255	24	324	CENSYS-ARIN-01	US	None
+176.65.148.0	176.65.148.255	24	324	-	-	-
 87.106.142.0	87.106.142.255	24	322	IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.	DE	abuse@oneandone.net
 205.210.31.0	205.210.31.255	24	321	GOOGLE-CLOUD-PLATFORM	US	None
 130.12.180.0	130.12.180.255	24	321	-	-	-
