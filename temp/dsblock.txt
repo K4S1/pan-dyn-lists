@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-22T18:15:28.672785
+#    updated: 2026-02-22T19:15:27.600162
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 79.124.40.0	79.124.40.255	24	317	TAMATIYA-AS	BG	noc@4vendeta.com
 88.210.63.0	88.210.63.255	24	316	-	-	-
 45.153.34.0	45.153.34.255	24	314	SKYLINK	NL	marcel.vm@gmx.de
-87.121.84.0	87.121.84.255	24	312	EPIKWIRE-NET	GB	>>UNKNOWN<<
+87.121.84.0	87.121.84.255	24	313	EPIKWIRE-NET	GB	>>UNKNOWN<<
