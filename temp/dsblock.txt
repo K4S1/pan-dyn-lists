@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-24T11:15:36.629198
+#    updated: 2026-02-24T12:45:35.988192
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 167.94.146.0	167.94.146.255	24	313	CENSYS-ARIN-02	US	None
 176.65.139.0	176.65.139.255	24	313	-	-	-
 176.65.148.0	176.65.148.255	24	312	-	-	-
-91.196.152.0	91.196.152.255	24	311	ATT-INTERNET4	US	abuse@att.net
+207.90.244.0	207.90.244.255	24	311	COGENT-174	US	abuse@cogentco.com
