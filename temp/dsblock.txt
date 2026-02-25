@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-25T08:15:31.640047
+#    updated: 2026-02-25T09:15:32.150361
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,8 +39,8 @@
 64.62.197.0	64.62.197.255	24	317	HURRICANE	US	abuse@he.net
 45.142.154.0	45.142.154.255	24	317	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 198.235.24.0	198.235.24.255	24	316	GOOGLE-CLOUD-PLATFORM	US	None
-185.242.226.0	185.242.226.255	24	315	AS49870-BV	NL	abuse@westcall.ru
 91.196.152.0	91.196.152.255	24	315	ATT-INTERNET4	US	abuse@att.net
+185.242.226.0	185.242.226.255	24	315	AS49870-BV	NL	abuse@westcall.ru
 176.65.148.0	176.65.148.255	24	314	-	-	-
 195.184.76.0	195.184.76.255	24	313	EAJ-GLOBAL	GB	>>UNKNOWN<<
 109.236.61.0	109.236.61.255	24	313	-	-	-
