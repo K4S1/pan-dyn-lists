@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-16T16:30:30.666871
+#    updated: 2026-03-16T18:15:30.641896
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 45.142.154.0	45.142.154.255	24	325	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 130.12.180.0	130.12.180.255	24	320	-	-	-
 167.94.146.0	167.94.146.255	24	320	CENSYS-ARIN-02	US	None
-89.42.231.0	89.42.231.255	24	319	CIANET-AS	RO	office@cianet.ro
-185.242.246.0	185.242.246.255	24	319	LEASEWEB-NL-AMS-01 Netherlands	NL	abuse@nl.leaseweb.com
 91.196.152.0	91.196.152.255	24	319	ATT-INTERNET4	US	abuse@att.net
+185.242.246.0	185.242.246.255	24	319	LEASEWEB-NL-AMS-01 Netherlands	NL	abuse@nl.leaseweb.com
+89.42.231.0	89.42.231.255	24	319	CIANET-AS	RO	office@cianet.ro
 64.62.197.0	64.62.197.255	24	318	HURRICANE	US	abuse@he.net
