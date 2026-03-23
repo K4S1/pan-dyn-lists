@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-23T22:00:16.494838
+#    updated: 2026-03-23T23:15:16.849284
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,20 +29,20 @@
 66.132.186.0	66.132.186.255	24	300	-	-	-
 65.49.1.0	65.49.1.255	24	298	HURRICANE	US	abuse@he.net
 45.205.1.0	45.205.1.255	24	295	MULTA-ASN1	US	abuse@multacom.com
-64.62.156.0	64.62.156.255	24	292	HURRICANE	US	abuse@he.net
 80.66.66.0	80.66.66.255	24	292	CREANOVA-AS Oy Creanova Hosting Solutions Ltd.	FI	abuse@creanova.org
-141.98.83.0	141.98.83.255	24	290	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+64.62.156.0	64.62.156.255	24	292	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	290	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+141.98.83.0	141.98.83.255	24	290	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 66.132.172.0	66.132.172.255	24	287	-	-	-
 66.132.224.0	66.132.224.255	24	286	-	-	-
 81.29.142.0	81.29.142.255	24	284	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
-199.45.154.0	199.45.154.255	24	283	CENSYS-ARIN-03	US	None
 167.94.145.0	167.94.145.255	24	283	CENSYS-ARIN-02	US	None
+199.45.154.0	199.45.154.255	24	283	CENSYS-ARIN-03	US	None
 71.6.232.0	71.6.232.255	24	282	CARINET	US	complaints@cari.net
 167.94.146.0	167.94.146.255	24	281	CENSYS-ARIN-02	US	None
 89.42.231.0	89.42.231.255	24	281	CIANET-AS	RO	office@cianet.ro
-64.62.197.0	64.62.197.255	24	280	HURRICANE	US	abuse@he.net
 130.12.180.0	130.12.180.255	24	280	-	-	-
-195.184.76.0	195.184.76.255	24	278	EAJ-GLOBAL	GB	>>UNKNOWN<<
-5.61.209.0	5.61.209.255	24	278	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+64.62.197.0	64.62.197.255	24	280	HURRICANE	US	abuse@he.net
 66.132.195.0	66.132.195.255	24	278	-	-	-
+5.61.209.0	5.61.209.255	24	278	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+195.184.76.0	195.184.76.255	24	278	EAJ-GLOBAL	GB	>>UNKNOWN<<
