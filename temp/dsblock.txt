@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-25T07:45:25.814091
+#    updated: 2026-03-25T08:00:25.886782
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,9 +37,9 @@
 66.132.224.0	66.132.224.255	24	328	-	-	-
 45.205.1.0	45.205.1.255	24	327	MULTA-ASN1	US	abuse@multacom.com
 89.42.231.0	89.42.231.255	24	326	CIANET-AS	RO	office@cianet.ro
-64.62.197.0	64.62.197.255	24	324	HURRICANE	US	abuse@he.net
-91.196.152.0	91.196.152.255	24	324	ATT-INTERNET4	US	abuse@att.net
 80.66.66.0	80.66.66.255	24	324	CREANOVA-AS Oy Creanova Hosting Solutions Ltd.	FI	abuse@creanova.org
+91.196.152.0	91.196.152.255	24	324	ATT-INTERNET4	US	abuse@att.net
+64.62.197.0	64.62.197.255	24	324	HURRICANE	US	abuse@he.net
 198.235.24.0	198.235.24.255	24	323	GOOGLE-CLOUD-PLATFORM	US	None
 176.65.148.0	176.65.148.255	24	322	-	-	-
 147.185.132.0	147.185.132.255	24	322	GOOGLE-CLOUD-PLATFORM	US	None
