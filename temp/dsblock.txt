@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-26T22:15:17.262275
+#    updated: 2026-03-26T23:15:16.943167
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 66.132.172.0	66.132.172.255	24	287	-	-	-
 195.184.76.0	195.184.76.255	24	286	EAJ-GLOBAL	GB	>>UNKNOWN<<
 91.230.168.0	91.230.168.255	24	286	BHA	FR	abuse@bha-conseil.com
-167.94.145.0	167.94.145.255	24	285	CENSYS-ARIN-02	US	None
 199.45.154.0	199.45.154.255	24	285	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.255	24	285	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+167.94.145.0	167.94.145.255	24	285	CENSYS-ARIN-02	US	None
 45.142.154.0	45.142.154.255	24	284	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 91.224.92.0	91.224.92.255	24	281	HOSTBALTIC	LT	>>UNKNOWN<<
 81.29.142.0	81.29.142.255	24	280	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
 66.132.195.0	66.132.195.255	24	279	-	-	-
-167.94.146.0	167.94.146.255	24	278	CENSYS-ARIN-02	US	None
 91.231.89.0	91.231.89.255	24	278	BHA	FR	abuse@bha-conseil.com
+167.94.146.0	167.94.146.255	24	278	CENSYS-ARIN-02	US	None
