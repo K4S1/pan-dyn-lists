@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-31T21:45:21.070719
+#    updated: 2026-03-31T22:45:18.961885
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-65.49.1.0	65.49.1.255	24	292	HURRICANE	US	abuse@he.net
 80.66.66.0	80.66.66.255	24	292	CREANOVA-AS Oy Creanova Hosting Solutions Ltd.	FI	abuse@creanova.org
+65.49.1.0	65.49.1.255	24	292	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	287	GOOGLE-CLOUD-PLATFORM	US	None
 45.148.10.0	45.148.10.255	24	286	PPTECHNOLOGY	GB	abuse@vegatele.com
-66.132.186.0	66.132.186.255	24	285	-	-	-
 66.132.172.0	66.132.172.255	24	285	-	-	-
+66.132.186.0	66.132.186.255	24	285	-	-	-
 193.163.125.0	193.163.125.255	24	284	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 92.118.39.0	92.118.39.255	24	282	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
 77.90.185.0	77.90.185.255	24	281	BTHOSTER	GB	abuse@inetia.pl
 66.132.195.0	66.132.195.255	24	281	-	-	-
 199.45.154.0	199.45.154.255	24	281	CENSYS-ARIN-03	US	None
-195.178.110.0	195.178.110.255	24	279	DATAFOREST	DE	abuse@timeweb.ru
 66.240.192.0	66.240.192.255	24	279	CARINET	US	complaints@cari.net
+195.178.110.0	195.178.110.255	24	279	DATAFOREST	DE	abuse@timeweb.ru
 64.62.156.0	64.62.156.255	24	278	HURRICANE	US	abuse@he.net
 91.196.152.0	91.196.152.255	24	278	ATT-INTERNET4	US	abuse@att.net
 176.65.148.0	176.65.148.255	24	277	-	-	-
+64.62.197.0	64.62.197.255	24	276	HURRICANE	US	abuse@he.net
 66.132.224.0	66.132.224.255	24	276	-	-	-
 205.210.31.0	205.210.31.255	24	276	GOOGLE-CLOUD-PLATFORM	US	None
-64.62.197.0	64.62.197.255	24	276	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.255	24	274	CENSYS-ARIN-02	US	None
