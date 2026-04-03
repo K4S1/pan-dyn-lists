@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-03T14:45:30.801938
+#    updated: 2026-04-03T16:00:30.483399
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -41,8 +41,8 @@
 147.185.132.0	147.185.132.255	24	331	GOOGLE-CLOUD-PLATFORM	US	None
 91.230.168.0	91.230.168.255	24	330	BHA	FR	abuse@bha-conseil.com
 195.184.76.0	195.184.76.255	24	330	EAJ-GLOBAL	GB	>>UNKNOWN<<
-66.132.186.0	66.132.186.255	24	328	-	-	-
 198.235.24.0	198.235.24.255	24	328	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	328	GOOGLE-CLOUD-PLATFORM	US	None
+66.132.186.0	66.132.186.255	24	328	-	-	-
 167.94.145.0	167.94.145.255	24	327	CENSYS-ARIN-02	US	None
 195.178.110.0	195.178.110.255	24	327	DATAFOREST	DE	abuse@timeweb.ru
