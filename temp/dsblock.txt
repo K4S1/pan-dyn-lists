@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-03T20:45:21.107573
+#    updated: 2026-04-03T21:45:19.223316
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,8 +32,8 @@
 66.132.224.0	66.132.224.255	24	295	-	-	-
 195.184.76.0	195.184.76.255	24	292	EAJ-GLOBAL	GB	>>UNKNOWN<<
 91.196.152.0	91.196.152.255	24	292	ATT-INTERNET4	US	abuse@att.net
-204.76.203.0	204.76.203.255	24	291	INTELLIGENCE-ATOM-HOSTING	KN	None
 80.66.66.0	80.66.66.255	24	291	CREANOVA-AS Oy Creanova Hosting Solutions Ltd.	FI	abuse@creanova.org
+204.76.203.0	204.76.203.255	24	291	INTELLIGENCE-ATOM-HOSTING	KN	None
 91.230.168.0	91.230.168.255	24	289	BHA	FR	abuse@bha-conseil.com
 66.132.172.0	66.132.172.255	24	288	-	-	-
 81.29.142.0	81.29.142.255	24	288	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
@@ -43,6 +43,6 @@
 199.45.154.0	199.45.154.255	24	283	CENSYS-ARIN-03	US	None
 167.94.146.0	167.94.146.255	24	282	CENSYS-ARIN-02	US	None
 92.118.39.0	92.118.39.255	24	282	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
-91.231.89.0	91.231.89.255	24	281	BHA	FR	abuse@bha-conseil.com
 141.98.11.0	141.98.11.255	24	281	HOSTBALTIC	LT	>>UNKNOWN<<
+91.231.89.0	91.231.89.255	24	281	BHA	FR	abuse@bha-conseil.com
 198.235.24.0	198.235.24.255	24	280	GOOGLE-CLOUD-PLATFORM	US	None
