@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-09T20:15:20.605055
+#    updated: 2026-04-09T21:00:24.098029
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-66.132.195.0	66.132.195.255	24	299	-	-	-
+66.132.195.0	66.132.195.255	24	300	-	-	-
 64.62.197.0	64.62.197.255	24	294	HURRICANE	US	abuse@he.net
 141.98.83.0	141.98.83.255	24	286	FLYSERVERS-ASN	PA	>>UNKNOWN<<
-66.132.172.0	66.132.172.255	24	283	-	-	-
-91.196.152.0	91.196.152.255	24	283	ATT-INTERNET4	US	abuse@att.net
+66.132.172.0	66.132.172.255	24	284	-	-	-
+91.196.152.0	91.196.152.255	24	284	ATT-INTERNET4	US	abuse@att.net
 65.49.1.0	65.49.1.255	24	281	HURRICANE	US	abuse@he.net
-195.184.76.0	195.184.76.255	24	279	EAJ-GLOBAL	GB	>>UNKNOWN<<
-193.163.125.0	193.163.125.255	24	278	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-66.132.224.0	66.132.224.255	24	277	-	-	-
-38.65.88.0	38.65.88.255	24	276	COGENT-174	US	abuse@cogentco.com
-66.132.186.0	66.132.186.255	24	276	-	-	-
+195.184.76.0	195.184.76.255	24	280	EAJ-GLOBAL	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	279	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+66.132.224.0	66.132.224.255	24	278	-	-	-
+66.132.186.0	66.132.186.255	24	277	-	-	-
+38.65.88.0	38.65.88.255	24	277	COGENT-174	US	abuse@cogentco.com
 45.205.1.0	45.205.1.255	24	276	MULTA-ASN1	US	abuse@multacom.com
+199.45.154.0	199.45.154.255	24	276	CENSYS-ARIN-03	US	None
 64.62.156.0	64.62.156.255	24	275	HURRICANE	US	abuse@he.net
-91.230.168.0	91.230.168.255	24	274	BHA	FR	abuse@bha-conseil.com
-5.61.209.0	5.61.209.255	24	273	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+91.230.168.0	91.230.168.255	24	275	BHA	FR	abuse@bha-conseil.com
 45.142.193.0	45.142.193.255	24	273	MAGHOST_	RO	office@magbross.ro
-199.45.154.0	199.45.154.255	24	273	CENSYS-ARIN-03	US	None
-198.235.24.0	198.235.24.255	24	272	GOOGLE-CLOUD-PLATFORM	US	None
+5.61.209.0	5.61.209.255	24	273	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 209.99.185.0	209.99.185.255	24	272	CONNECTIONET	US	admin@connectionetsolutions.com
-130.12.180.0	130.12.180.255	24	271	-	-	-
+65.49.20.0	65.49.20.255	24	272	HURRICANE	US	abuse@he.net
+195.178.110.0	195.178.110.255	24	272	DATAFOREST	DE	abuse@timeweb.ru
