@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-12T21:30:35.988880
+#    updated: 2026-04-12T23:15:37.212562
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,21 +28,21 @@
 #     
 64.62.156.0	64.62.156.255	24	299	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.255	24	291	CENSYS-ARIN-02	US	None
-5.61.209.0	5.61.209.255	24	290	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-66.132.172.0	66.132.172.255	24	290	-	-	-
 45.205.1.0	45.205.1.255	24	290	MULTA-ASN1	US	abuse@multacom.com
+66.132.172.0	66.132.172.255	24	290	-	-	-
+5.61.209.0	5.61.209.255	24	290	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 37.10.113.0	37.10.113.255	24	288	BANDWIDTH-AS	GB	abuse@zare.com
-66.132.195.0	66.132.195.255	24	286	-	-	-
 193.163.125.0	193.163.125.255	24	286	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-195.184.76.0	195.184.76.255	24	285	EAJ-GLOBAL	GB	>>UNKNOWN<<
+66.132.195.0	66.132.195.255	24	286	-	-	-
 65.49.1.0	65.49.1.255	24	285	HURRICANE	US	abuse@he.net
 193.176.31.0	193.176.31.255	24	285	BANDWIDTH-AS	GB	abuse@zare.com
+195.184.76.0	195.184.76.255	24	285	EAJ-GLOBAL	GB	>>UNKNOWN<<
 199.45.154.0	199.45.154.255	24	283	CENSYS-ARIN-03	US	None
 195.178.110.0	195.178.110.255	24	282	DATAFOREST	DE	abuse@timeweb.ru
 64.62.197.0	64.62.197.255	24	282	HURRICANE	US	abuse@he.net
 66.132.224.0	66.132.224.255	24	282	-	-	-
 81.29.142.0	81.29.142.255	24	281	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
-66.132.186.0	66.132.186.255	24	279	-	-	-
 130.12.180.0	130.12.180.255	24	279	-	-	-
+66.132.186.0	66.132.186.255	24	279	-	-	-
 204.76.203.0	204.76.203.255	24	278	INTELLIGENCE-ATOM-HOSTING	KN	None
 45.156.129.0	45.156.129.255	24	277	AS-BITSIGHT	PT	>>UNKNOWN<<
