@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-13T20:30:38.402281
+#    updated: 2026-04-13T21:30:38.351812
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 66.132.172.0	66.132.172.255	24	279	-	-	-
 79.124.40.0	79.124.40.255	24	278	TAMATIYA-AS	BG	noc@4vendeta.com
 205.210.31.0	205.210.31.255	24	277	GOOGLE-CLOUD-PLATFORM	US	None
+91.196.152.0	91.196.152.255	24	276	ATT-INTERNET4	US	abuse@att.net
 91.230.168.0	91.230.168.255	24	276	BHA	FR	abuse@bha-conseil.com
-87.121.84.0	87.121.84.255	24	276	EPIKWIRE-NET	GB	>>UNKNOWN<<
