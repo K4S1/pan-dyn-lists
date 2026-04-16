@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-16T19:30:24.710732
+#    updated: 2026-04-16T20:00:26.054927
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,16 +33,16 @@
 91.196.152.0	91.196.152.255	24	283	ATT-INTERNET4	US	abuse@att.net
 91.230.168.0	91.230.168.255	24	281	BHA	FR	abuse@bha-conseil.com
 45.205.1.0	45.205.1.255	24	279	MULTA-ASN1	US	abuse@multacom.com
-195.178.110.0	195.178.110.255	24	278	DATAFOREST	DE	abuse@timeweb.ru
 66.132.172.0	66.132.172.255	24	278	-	-	-
+195.178.110.0	195.178.110.255	24	278	DATAFOREST	DE	abuse@timeweb.ru
 195.184.76.0	195.184.76.255	24	276	EAJ-GLOBAL	GB	>>UNKNOWN<<
-45.148.10.0	45.148.10.255	24	276	PPTECHNOLOGY	GB	abuse@vegatele.com
 185.242.226.0	185.242.226.255	24	276	AS49870-BV	NL	abuse@westcall.ru
+45.148.10.0	45.148.10.255	24	276	PPTECHNOLOGY	GB	abuse@vegatele.com
 178.20.210.0	178.20.210.255	24	275	AS43260	TR	ip@dgn.net.tr
 193.163.125.0	193.163.125.255	24	274	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-172.94.9.0	172.94.9.255	24	273	M247	RO	abuse@m247.com
+45.142.193.0	45.142.193.255	24	273	MAGHOST_	RO	office@magbross.ro
 199.45.154.0	199.45.154.255	24	273	CENSYS-ARIN-03	US	None
 66.132.195.0	66.132.195.255	24	273	-	-	-
-45.142.193.0	45.142.193.255	24	273	MAGHOST_	RO	office@magbross.ro
+172.94.9.0	172.94.9.255	24	273	M247	RO	abuse@m247.com
 130.12.180.0	130.12.180.255	24	272	-	-	-
 104.243.32.0	104.243.32.255	24	272	RELIABLESITE	US	abuse@reliablesite.net
