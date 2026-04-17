@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-17T18:15:52.298070
+#    updated: 2026-04-17T20:30:50.750359
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,13 +35,13 @@
 66.132.172.0	66.132.172.255	24	336	-	-	-
 91.230.168.0	91.230.168.255	24	336	BHA	FR	abuse@bha-conseil.com
 195.184.76.0	195.184.76.255	24	335	EAJ-GLOBAL	GB	>>UNKNOWN<<
+199.45.154.0	199.45.154.255	24	333	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.255	24	333	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.148.10.0	45.148.10.255	24	333	PPTECHNOLOGY	GB	abuse@vegatele.com
-199.45.154.0	199.45.154.255	24	333	CENSYS-ARIN-03	US	None
 178.20.210.0	178.20.210.255	24	332	AS43260	TR	ip@dgn.net.tr
 195.178.110.0	195.178.110.255	24	332	DATAFOREST	DE	abuse@timeweb.ru
-91.224.92.0	91.224.92.255	24	331	HOSTBALTIC	LT	>>UNKNOWN<<
 45.205.1.0	45.205.1.255	24	331	MULTA-ASN1	US	abuse@multacom.com
+91.224.92.0	91.224.92.255	24	331	HOSTBALTIC	LT	>>UNKNOWN<<
 66.132.195.0	66.132.195.255	24	330	-	-	-
 205.210.31.0	205.210.31.255	24	329	GOOGLE-CLOUD-PLATFORM	US	None
 100.29.192.0	100.29.192.255	24	327	AMAZON-AES	US	abuse@amazonaws.com
