@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-05-06T21:15:18.423939
+#    updated: 2026-05-06T22:00:23.083773
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,20 +29,20 @@
 45.205.1.0	45.205.1.255	24	298	MULTA-ASN1	US	abuse@multacom.com
 64.62.197.0	64.62.197.255	24	296	HURRICANE	US	abuse@he.net
 78.128.114.0	78.128.114.255	24	295	TAMATIYA-AS	BG	noc@4vendeta.com
-87.251.64.0	87.251.64.255	24	290	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 45.148.10.0	45.148.10.255	24	290	PPTECHNOLOGY	GB	abuse@vegatele.com
 64.62.156.0	64.62.156.255	24	290	HURRICANE	US	abuse@he.net
+87.251.64.0	87.251.64.255	24	290	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 5.61.209.0	5.61.209.255	24	289	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 65.49.1.0	65.49.1.255	24	288	HURRICANE	US	abuse@he.net
 66.132.195.0	66.132.195.255	24	288	-	-	-
 193.163.125.0	193.163.125.255	24	287	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 66.132.172.0	66.132.172.255	24	285	-	-	-
 178.20.210.0	178.20.210.255	24	284	AS43260	TR	ip@dgn.net.tr
-45.142.193.0	45.142.193.255	24	283	MAGHOST_	RO	office@magbross.ro
 147.185.132.0	147.185.132.255	24	283	GOOGLE-CLOUD-PLATFORM	US	None
+45.142.193.0	45.142.193.255	24	283	MAGHOST_	RO	office@magbross.ro
 66.240.192.0	66.240.192.255	24	282	CARINET	US	complaints@cari.net
-176.65.139.0	176.65.139.255	24	280	-	-	-
-45.142.154.0	45.142.154.255	24	280	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 91.196.152.0	91.196.152.255	24	280	ATT-INTERNET4	US	abuse@att.net
 66.132.186.0	66.132.186.255	24	280	-	-	-
+176.65.139.0	176.65.139.255	24	280	-	-	-
+45.142.154.0	45.142.154.255	24	280	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 109.205.211.0	109.205.211.255	24	279	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
