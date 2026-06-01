@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-01T04:00:08.457086
+#    updated: 2026-06-01T10:00:10.054246
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-64.62.197.0	64.62.197.255	24	180	HURRICANE	US	abuse@he.net
-66.132.224.0	66.132.224.255	24	179	-	-	-
-167.94.146.0	167.94.146.255	24	175	CENSYS-ARIN-02	US	None
-45.205.1.0	45.205.1.255	24	174	MULTA-ASN1	US	abuse@multacom.com
-66.132.172.0	66.132.172.255	24	174	-	-	-
-45.148.10.0	45.148.10.255	24	174	PPTECHNOLOGY	GB	abuse@vegatele.com
-87.251.64.0	87.251.64.255	24	173	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
-69.5.169.0	69.5.169.255	24	173	OMNIS	US	abuse@omnis.com
-66.132.186.0	66.132.186.255	24	172	-	-	-
-193.163.125.0	193.163.125.255	24	171	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-146.88.241.0	146.88.241.255	24	170	ARBOR	US	hostmaster@arbor.net
-45.82.76.0	45.82.76.255	24	170	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-147.185.132.0	147.185.132.255	24	170	GOOGLE-CLOUD-PLATFORM	US	None
-178.20.210.0	178.20.210.255	24	170	AS43260	TR	ip@dgn.net.tr
-193.124.20.0	193.124.20.255	24	168	DTAG Internet service provider operations	DE	auftrag@nic.telekom.de
-64.62.156.0	64.62.156.255	24	168	HURRICANE	US	abuse@he.net
-5.61.209.0	5.61.209.255	24	168	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-176.65.139.0	176.65.139.255	24	168	-	-	-
-65.49.20.0	65.49.20.255	24	167	HURRICANE	US	abuse@he.net
-66.132.195.0	66.132.195.255	24	167	-	-	-
+64.62.197.0	64.62.197.255	24	193	HURRICANE	US	abuse@he.net
+66.132.224.0	66.132.224.255	24	191	-	-	-
+167.94.146.0	167.94.146.255	24	187	CENSYS-ARIN-02	US	None
+45.148.10.0	45.148.10.255	24	186	PPTECHNOLOGY	GB	abuse@vegatele.com
+87.251.64.0	87.251.64.255	24	184	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
+66.132.172.0	66.132.172.255	24	184	-	-	-
+45.205.1.0	45.205.1.255	24	183	MULTA-ASN1	US	abuse@multacom.com
+45.82.76.0	45.82.76.255	24	183	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+66.132.186.0	66.132.186.255	24	182	-	-	-
+69.5.169.0	69.5.169.255	24	182	OMNIS	US	abuse@omnis.com
+178.20.210.0	178.20.210.255	24	182	AS43260	TR	ip@dgn.net.tr
+146.88.241.0	146.88.241.255	24	181	ARBOR	US	hostmaster@arbor.net
+193.163.125.0	193.163.125.255	24	181	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.124.20.0	193.124.20.255	24	180	DTAG Internet service provider operations	DE	auftrag@nic.telekom.de
+147.185.132.0	147.185.132.255	24	180	GOOGLE-CLOUD-PLATFORM	US	None
+64.62.156.0	64.62.156.255	24	179	HURRICANE	US	abuse@he.net
+176.65.139.0	176.65.139.255	24	179	-	-	-
+176.65.148.0	176.65.148.255	24	178	-	-	-
+5.61.209.0	5.61.209.255	24	178	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+45.142.193.0	45.142.193.255	24	177	MAGHOST_	RO	office@magbross.ro
