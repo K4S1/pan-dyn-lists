@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-01T20:00:09.818768
+#    updated: 2026-06-01T22:00:10.062105
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,17 +32,17 @@
 45.148.10.0	45.148.10.255	24	186	PPTECHNOLOGY	GB	abuse@vegatele.com
 87.251.64.0	87.251.64.255	24	184	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 66.132.172.0	66.132.172.255	24	184	-	-	-
+45.82.76.0	45.82.76.255	24	183	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 69.5.169.0	69.5.169.255	24	183	OMNIS	US	abuse@omnis.com
 45.205.1.0	45.205.1.255	24	183	MULTA-ASN1	US	abuse@multacom.com
-45.82.76.0	45.82.76.255	24	183	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-66.132.186.0	66.132.186.255	24	182	-	-	-
 178.20.210.0	178.20.210.255	24	182	AS43260	TR	ip@dgn.net.tr
-146.88.241.0	146.88.241.255	24	181	ARBOR	US	hostmaster@arbor.net
+66.132.186.0	66.132.186.255	24	182	-	-	-
 193.163.125.0	193.163.125.255	24	181	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+146.88.241.0	146.88.241.255	24	181	ARBOR	US	hostmaster@arbor.net
 147.185.132.0	147.185.132.255	24	180	GOOGLE-CLOUD-PLATFORM	US	None
 193.124.20.0	193.124.20.255	24	180	DTAG Internet service provider operations	DE	auftrag@nic.telekom.de
 176.65.139.0	176.65.139.255	24	179	-	-	-
 64.62.156.0	64.62.156.255	24	179	HURRICANE	US	abuse@he.net
-5.61.209.0	5.61.209.255	24	178	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 176.65.148.0	176.65.148.255	24	178	-	-	-
-65.49.20.0	65.49.20.255	24	177	HURRICANE	US	abuse@he.net
+5.61.209.0	5.61.209.255	24	178	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+66.132.195.0	66.132.195.255	24	177	-	-	-
