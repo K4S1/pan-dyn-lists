@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-14T08:45:37.794491
+#    updated: 2026-06-14T11:15:36.836931
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,7 +39,7 @@
 45.142.154.0	45.142.154.255	24	331	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 45.148.10.0	45.148.10.255	24	331	PPTECHNOLOGY	GB	abuse@vegatele.com
 66.132.195.0	66.132.195.255	24	330	-	-	-
-91.92.40.0	91.92.40.255	24	328	EUROCRYPT-AS	BG	support@evro.net
+91.92.40.0	91.92.40.255	24	329	EUROCRYPT-AS	BG	support@evro.net
 64.62.197.0	64.62.197.255	24	327	HURRICANE	US	abuse@he.net
 79.124.40.0	79.124.40.255	24	326	TAMATIYA-AS	BG	noc@4vendeta.com
 167.94.145.0	167.94.145.255	24	326	CENSYS-ARIN-02	US	None
