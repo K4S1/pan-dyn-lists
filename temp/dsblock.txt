@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-15T12:45:36.797753
+#    updated: 2026-06-15T18:30:36.873018
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 195.184.76.0	195.184.76.255	24	327	EAJ-GLOBAL	GB	>>UNKNOWN<<
 45.194.67.0	45.194.67.255	24	325	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 64.62.156.0	64.62.156.255	24	325	HURRICANE	US	abuse@he.net
-198.235.24.0	198.235.24.255	24	323	GOOGLE-CLOUD-PLATFORM	US	None
+66.132.224.0	66.132.224.255	24	323	-	-	-
