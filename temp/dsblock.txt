@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-04T06:45:31.803592
+#    updated: 2026-07-04T09:30:32.943911
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-45.33.41.0	45.33.41.255	24	579	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
+45.33.41.0	45.33.41.255	24	580	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
 69.5.169.0	69.5.169.255	24	349	OMNIS	US	abuse@omnis.com
 66.132.186.0	66.132.186.255	24	338	-	-	-
 147.185.132.0	147.185.132.255	24	338	GOOGLE-CLOUD-PLATFORM	US	None
