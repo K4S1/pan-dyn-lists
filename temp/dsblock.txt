@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-09T08:15:31.902740
+#    updated: 2026-07-09T11:15:32.895258
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,15 +34,15 @@
 198.235.24.0	198.235.24.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
 66.132.195.0	66.132.195.255	24	330	-	-	-
 79.124.56.0	79.124.56.255	24	327	TAMATIYA-AS	BG	noc@4vendeta.com
+167.94.145.0	167.94.145.255	24	326	CENSYS-ARIN-02	US	None
+45.205.1.0	45.205.1.255	24	325	MULTA-ASN1	US	abuse@multacom.com
 91.196.152.0	91.196.152.255	24	325	ATT-INTERNET4	US	abuse@att.net
-167.94.145.0	167.94.145.255	24	325	CENSYS-ARIN-02	US	None
 5.61.209.0	5.61.209.255	24	324	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 64.62.197.0	64.62.197.255	24	323	HURRICANE	US	abuse@he.net
 69.5.169.0	69.5.169.255	24	323	OMNIS	US	abuse@omnis.com
 66.132.224.0	66.132.224.255	24	322	-	-	-
 199.45.154.0	199.45.154.255	24	322	CENSYS-ARIN-03	US	None
-45.205.1.0	45.205.1.255	24	321	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.255	24	320	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 77.90.185.0	77.90.185.255	24	319	BTHOSTER	GB	abuse@inetia.pl
 104.194.10.0	104.194.10.255	24	319	RELIABLESITE	US	abuse@reliablesite.net
-66.132.172.0	66.132.172.255	24	317	-	-	-
+167.94.146.0	167.94.146.255	24	318	CENSYS-ARIN-02	US	None
