@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-11T07:45:29.541295
+#    updated: 2026-07-11T10:00:36.162731
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 5.61.209.0	5.61.209.255	24	329	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 91.196.152.0	91.196.152.255	24	329	ATT-INTERNET4	US	abuse@att.net
 45.205.1.0	45.205.1.255	24	327	MULTA-ASN1	US	abuse@multacom.com
+185.242.226.0	185.242.226.255	24	327	AS49870-BV	NL	abuse@westcall.ru
 193.163.125.0	193.163.125.255	24	327	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 195.184.76.0	195.184.76.255	24	327	EAJ-GLOBAL	GB	>>UNKNOWN<<
-185.242.226.0	185.242.226.255	24	326	AS49870-BV	NL	abuse@westcall.ru
 77.90.185.0	77.90.185.255	24	324	BTHOSTER	GB	abuse@inetia.pl
