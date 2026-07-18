@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-18T21:45:20.876514
+#    updated: 2026-07-18T22:00:24.360434
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,10 +34,10 @@
 65.49.1.0	65.49.1.255	24	276	HURRICANE	US	abuse@he.net
 45.205.1.0	45.205.1.255	24	275	MULTA-ASN1	US	abuse@multacom.com
 5.61.209.0	5.61.209.255	24	275	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-64.62.197.0	64.62.197.255	24	273	HURRICANE	US	abuse@he.net
 66.132.186.0	66.132.186.255	24	273	-	-	-
-167.94.145.0	167.94.145.255	24	272	CENSYS-ARIN-02	US	None
+64.62.197.0	64.62.197.255	24	273	HURRICANE	US	abuse@he.net
 45.148.10.0	45.148.10.255	24	272	PPTECHNOLOGY	GB	abuse@vegatele.com
+167.94.145.0	167.94.145.255	24	272	CENSYS-ARIN-02	US	None
 77.90.185.0	77.90.185.255	24	271	BTHOSTER	GB	abuse@inetia.pl
 213.209.159.0	213.209.159.255	24	271	AS43260	TR	ip@dgn.net.tr
 85.217.149.0	85.217.149.255	24	271	MAYAK	BG	ripe@mayak.bg
