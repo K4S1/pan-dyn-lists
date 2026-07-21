@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-21T21:15:37.726069
+#    updated: 2026-07-21T23:15:21.069921
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-151.243.11.0	151.243.11.255	24	357	RASANA	IR	abuse@rasana.net
-45.198.224.0	45.198.224.255	24	347	OWS	US	CSOC@ontario.ca
-205.210.31.0	205.210.31.255	24	346	GOOGLE-CLOUD-PLATFORM	US	None
-45.194.67.0	45.194.67.255	24	345	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	342	GOOGLE-CLOUD-PLATFORM	US	None
-45.205.1.0	45.205.1.255	24	341	MULTA-ASN1	US	abuse@multacom.com
-94.154.43.0	94.154.43.255	24	341	EKSENBILISIM	TR	abuse@ruyaserver.com
-162.217.100.0	162.217.100.255	24	340	SINGLEHOP-LLC	US	netops@singlehop.com
-172.110.223.0	172.110.223.255	24	332	-	-	-
-193.163.125.0	193.163.125.255	24	332	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-45.148.10.0	45.148.10.255	24	331	PPTECHNOLOGY	GB	abuse@vegatele.com
-69.5.169.0	69.5.169.255	24	331	OMNIS	US	abuse@omnis.com
-199.45.154.0	199.45.154.255	24	331	CENSYS-ARIN-03	US	None
-66.132.172.0	66.132.172.255	24	327	-	-	-
-64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
-65.49.1.0	65.49.1.255	24	326	HURRICANE	US	abuse@he.net
-64.62.156.0	64.62.156.255	24	325	HURRICANE	US	abuse@he.net
-85.217.149.0	85.217.149.255	24	324	MAYAK	BG	ripe@mayak.bg
-5.61.209.0	5.61.209.255	24	323	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-66.132.186.0	66.132.186.255	24	320	-	-	-
+69.5.169.0	69.5.169.255	24	291	OMNIS	US	abuse@omnis.com
+162.217.100.0	162.217.100.255	24	289	SINGLEHOP-LLC	US	netops@singlehop.com
+151.216.96.0	151.216.96.255	24	288	-	-	-
+156.225.1.0	156.225.1.255	24	287	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
+205.210.31.0	205.210.31.255	24	285	GOOGLE-CLOUD-PLATFORM	US	None
+185.242.226.0	185.242.226.255	24	283	AS49870-BV	NL	abuse@westcall.ru
+91.92.40.0	91.92.40.255	24	281	EUROCRYPT-AS	BG	support@evro.net
+85.217.149.0	85.217.149.255	24	281	MAYAK	BG	ripe@mayak.bg
+198.235.24.0	198.235.24.255	24	281	GOOGLE-CLOUD-PLATFORM	US	None
+66.240.223.0	66.240.223.255	24	279	CARINET	US	complaints@cari.net
+193.163.125.0	193.163.125.255	24	279	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+66.132.195.0	66.132.195.255	24	278	-	-	-
+45.148.10.0	45.148.10.255	24	278	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.205.1.0	45.205.1.255	24	277	MULTA-ASN1	US	abuse@multacom.com
+195.178.110.0	195.178.110.255	24	276	DATAFOREST	DE	abuse@timeweb.ru
+65.49.1.0	65.49.1.255	24	276	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	273	HURRICANE	US	abuse@he.net
+66.132.172.0	66.132.172.255	24	273	-	-	-
+216.180.246.0	216.180.246.255	24	272	NTHL	US	abuse@networktransit.net
+167.94.146.0	167.94.146.255	24	272	CENSYS-ARIN-02	US	None
