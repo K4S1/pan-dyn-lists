@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-25T07:15:37.516786
+#    updated: 2026-07-25T09:30:41.982363
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-162.217.100.0	162.217.100.255	24	344	SINGLEHOP-LLC	US	netops@singlehop.com
+162.217.100.0	162.217.100.255	24	345	SINGLEHOP-LLC	US	netops@singlehop.com
 45.198.224.0	45.198.224.255	24	343	OWS	US	CSOC@ontario.ca
 198.235.24.0	198.235.24.255	24	341	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	341	GOOGLE-CLOUD-PLATFORM	US	None
