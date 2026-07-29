@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-29T05:45:35.318492
+#    updated: 2026-07-29T08:45:39.739219
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,8 +35,8 @@
 45.156.129.0	45.156.129.255	24	328	AS-BITSIGHT	PT	>>UNKNOWN<<
 152.53.148.0	152.53.148.255	24	328	-	-	-
 193.163.125.0	193.163.125.255	24	328	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+31.77.227.0	31.77.227.255	24	327	EE Ltd	GB	abuse@ee.co.uk
 205.210.31.0	205.210.31.255	24	327	GOOGLE-CLOUD-PLATFORM	US	None
-31.77.227.0	31.77.227.255	24	326	EE Ltd	GB	abuse@ee.co.uk
 45.205.1.0	45.205.1.255	24	326	MULTA-ASN1	US	abuse@multacom.com
 66.132.172.0	66.132.172.255	24	325	-	-	-
 77.90.185.0	77.90.185.255	24	324	BTHOSTER	GB	abuse@inetia.pl
