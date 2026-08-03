@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-08-03T07:45:33.727988
+#    updated: 2026-08-03T11:45:40.710340
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,17 +30,17 @@
 151.243.11.0	151.243.11.255	24	338	RASANA	IR	abuse@rasana.net
 45.194.67.0	45.194.67.255	24	337	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 66.132.195.0	66.132.195.255	24	332	-	-	-
+45.205.1.0	45.205.1.255	24	329	MULTA-ASN1	US	abuse@multacom.com
 162.217.100.0	162.217.100.255	24	329	SINGLEHOP-LLC	US	netops@singlehop.com
-45.205.1.0	45.205.1.255	24	328	MULTA-ASN1	US	abuse@multacom.com
 64.62.197.0	64.62.197.255	24	328	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	326	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	323	HURRICANE	US	abuse@he.net
 66.132.172.0	66.132.172.255	24	323	-	-	-
 45.148.10.0	45.148.10.255	24	319	PPTECHNOLOGY	GB	abuse@vegatele.com
+66.132.186.0	66.132.186.255	24	319	-	-	-
 195.230.103.0	195.230.103.255	24	319	SECURITYTRAILS	US	>>UNKNOWN<<
-66.132.186.0	66.132.186.255	24	318	-	-	-
+45.142.193.0	45.142.193.255	24	316	MAGHOST_	RO	office@magbross.ro
 167.94.145.0	167.94.145.255	24	316	CENSYS-ARIN-02	US	None
-45.142.193.0	45.142.193.255	24	315	MAGHOST_	RO	office@magbross.ro
 64.62.156.0	64.62.156.255	24	315	HURRICANE	US	abuse@he.net
 66.132.224.0	66.132.224.255	24	315	-	-	-
 147.185.132.0	147.185.132.255	24	315	GOOGLE-CLOUD-PLATFORM	US	None
