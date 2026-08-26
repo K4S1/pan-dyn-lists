@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-08-26T15:45:43.642717
+#    updated: 2026-08-26T18:00:45.043884
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,8 +29,8 @@
 66.132.195.0	66.132.195.255	24	349	-	-	-
 85.217.149.0	85.217.149.255	24	349	MAYAK	BG	ripe@mayak.bg
 147.185.132.0	147.185.132.255	24	348	GOOGLE-CLOUD-PLATFORM	US	None
+45.156.128.0	45.156.128.255	24	337	AS-BITSIGHT	PT	>>UNKNOWN<<
 151.243.11.0	151.243.11.255	24	337	RASANA	IR	abuse@rasana.net
-45.156.128.0	45.156.128.255	24	336	AS-BITSIGHT	PT	>>UNKNOWN<<
 45.156.129.0	45.156.129.255	24	336	AS-BITSIGHT	PT	>>UNKNOWN<<
 185.242.226.0	185.242.226.255	24	336	AS49870-BV	NL	abuse@westcall.ru
 172.110.223.0	172.110.223.255	24	335	-	-	-
