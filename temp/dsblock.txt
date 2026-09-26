@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-09-26T19:01:00.933411
+#    updated: 2026-09-26T21:30:59.653744
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,9 +35,9 @@
 205.210.31.0	205.210.31.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 91.196.152.0	91.196.152.255	24	328	ATT-INTERNET4	US	abuse@att.net
+216.180.246.0	216.180.246.255	24	327	NTHL	US	abuse@networktransit.net
 64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
 77.90.185.0	77.90.185.255	24	326	BTHOSTER	GB	abuse@inetia.pl
-216.180.246.0	216.180.246.255	24	326	NTHL	US	abuse@networktransit.net
 66.132.172.0	66.132.172.255	24	325	-	-	-
 148.59.129.0	148.59.129.255	24	325	SERVER-MANIA	CA	support@servermania.com
 85.217.140.0	85.217.140.255	24	324	NETERRA-AS	BG	abuse@neterra.net
