@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-10-24T04:30:57.768204
+#    updated: 2026-10-24T09:30:58.829292
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,8 +35,8 @@
 45.198.224.0	45.198.224.255	24	334	OWS	US	CSOC@ontario.ca
 147.185.132.0	147.185.132.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
 16.5.0.0	16.5.0.255	24	332	-	-	-
+109.105.210.0	109.105.210.255	24	329	-	-	-
 198.235.24.0	198.235.24.255	24	329	GOOGLE-CLOUD-PLATFORM	US	None
-109.105.210.0	109.105.210.255	24	328	-	-	-
 138.226.239.0	138.226.239.255	24	328	-	-	-
 91.196.152.0	91.196.152.255	24	325	ATT-INTERNET4	US	abuse@att.net
 147.185.133.0	147.185.133.255	24	325	GOOGLE-CLOUD-PLATFORM	US	None
