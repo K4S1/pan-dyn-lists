@@ -1,17 +1,13 @@
+################################################################
+# abuse.ch SSLBL Botnet C2 IP Blacklist (CSV)                  #
+# Last updated: 2025-01-03 11:30:00 UTC                        #
+#                                                              #
+# Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
+# For questions please contact sslbl [at] abuse.ch             #
+################################################################
+#
+# Firstseen,DstIP,DstPort
+#
+# ATTENTION: This list has been deprecated on 2025-01-03
+#
 
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-dfw-kdfw8210165-DFW 1793305014 1791046342</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
